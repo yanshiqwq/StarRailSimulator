@@ -1,0 +1,28 @@
+{
+    "code": "200",
+    "battle_id": "GUID",
+    "round": 1,
+    "total_round": 2,
+    "config": {
+        "reset_action_value": true,
+        "buff": []
+    },
+    "total_action_value": 200,
+    "timer": {
+        "has_timer": true,
+        "first_cycle_action_value": 150,
+        "action_value_per_cycle": 100,
+        "total_cycle": 30,
+        "cycle_remaining": 29,
+        "timer_action_value": 50
+    },
+    "character": [
+        {
+            "char_id": "角色id",
+            "hp": 5000,
+            "def": 1000,
+            "speed": 161
+        }
+    ],
+    "move_count": 13
+}
