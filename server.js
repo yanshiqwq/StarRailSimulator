@@ -4,10 +4,14 @@ const yaml = require('yaml');
 const fs = require('fs');
 const app = express();
 
-global.logLevel = "log";
 const utils = require('./utils');
 eval(utils.console.setup);
-utils.console.global();
+utils.console.init("log");
+
+const process = require('process');
+process.on('uncaughtException', async function(err){
+	exit(error(`Fetched an uncaught exception: ${err.stack}.`));
+});
 
 async function cmdLoop(){
 	while(1){
@@ -45,11 +49,9 @@ new Promise(async function (resolve, reject) {
 	var parseConfig = function () {
 		return new Promise(async function (resolve, reject) {
 			try {
-				// 尝试读取并解析
 				var configFile = await yaml.parse(fs.readFileSync(`${__dirname}/config.yml`, 'utf-8'));
 				resolve(configFile);
 			} catch (err) {
-				// 报错
 				reject(new Error(`Failed to parse config file: ${err.stack}`));
 			}
 		});
@@ -81,17 +83,18 @@ new Promise(async function (resolve, reject) {
 	global.lang = files[1];
 	
 	app.use(express.json())
-	app.use("/battle", battleManager);
-	app.use("/data", dataManager);
 	app.use(function(err, next) {
 		error(err.message);
 		next(err);
 	});
+
+	app.use("./api/battle", battleManager);
+	app.use("./api/data", dataManager);	
 
 	app.listen(config.server.port, config.server.host, async () => {
 		info(lang.server.serverRunningAt.render(config.server.host, config.server.port));
 		cmdLoop();
 	});
 }).catch(err => {
-	error(lang.mainLoopError.render(err))
+	error(lang.mainLoopError.render(err));
 });

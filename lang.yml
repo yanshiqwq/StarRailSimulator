@@ -3,7 +3,7 @@ en-us:
     forceStop: "Sure to force exit?"
     loadConfigFailed: "Failed to load config file: %s"
     invalidCmd: "Invalid command: %s."
-    serverRunningAt: "Server running at %s:%s.",
+    serverRunningAt: "Server running at %s:%s."
     mainLoopError: "Caught an error in the main loop: %s"
   data:
     loadDatabaseFailed: "Failed to load database: %s"

@@ -5,7 +5,7 @@ const UUID = require('uuid');
 var battleList = []
 const battleSchema = {
     normal: {
-        enemy_group: {type: String, required: true},
+        stage: {type: String, required: true},
         buff: {
             type: Array,
             items: {

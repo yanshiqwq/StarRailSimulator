@@ -24,19 +24,20 @@ const utils = {
 	},
 	console: {
 		/**
-		 * @function global 将所有的utils函数公开为全局函数
+		 * @function init 将所有的utils函数公开为全局函数
 		 * @since v1.3.1
-		 * @descript 只有程序启动时才会用得到
-		 * @example utils.console.global();
+		 * @descript 只有主脚本运行时才会用得到
+		 * @example utils.console.init();
 		 */
-		global: function(){
+		init: function(logLevel){
 			for(var value in utils){
 				if(value != "console"){
 					global[value] = utils[value];
 				}
 			}
 			var logGroup = ["debug", "log", "info", "warn", "error", "fatal"];
-			global.logLevel = logGroup.indexOf(global.logLevel);
+			global.logLevel = logGroup.indexOf(logLevel);
+			// console.log(`logLevel="${logLevel}", global.logLevel="${global.logLevel}"`);
 		},
 		/**
 		 * @function fatal 严重错误
@@ -112,9 +113,11 @@ const utils = {
 				return require("util").format(this.toString(), ...args);
 			}
 			for(var type in types){
+				var scriptName = require("path").basename(__filename);
 				eval(\`
 					function \${types[type]}(log, hideTime){
-						utils.console.\${types[type]}(log, hideTime, '\${require("path").basename(__filename)}:' + new Error().stack.split(":")[7]);
+						var line = new Error().stack.split(":")[7];
+						utils.console.\${types[type]}(log, hideTime, '\${scriptName}:' + line);
 					}
 				\`)
 			}
