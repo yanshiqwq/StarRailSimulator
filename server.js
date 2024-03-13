@@ -42,6 +42,10 @@ async function cmdLoop(){
 	}
 }
 
+const child_process = require('child_process');
+const chalk = require('chalk');
+const version = `v${child_process.execSync('git tag', {'encoding': 'utf8'}).trim()}-${child_process.execSync('git log --oneline -n 1 --format="%h"', {'encoding': 'utf8'}).trim()}`
+
 const cmdApi = require('./cmd');
 const battleManager = require('./api/battle');
 const dataManager = require('./api/data');
@@ -92,7 +96,8 @@ new Promise(async function (resolve, reject) {
 	app.use("./api/data", dataManager);	
 
 	app.listen(config.server.port, config.server.host, async () => {
-		info(lang.server.serverRunningAt.render(config.server.host, config.server.port));
+		console.info(chalk.bold.blueBright(lang.server.motd.render(version)));
+		info(lang.server.serverStart.render(config.server.host, config.server.port));
 		cmdLoop();
 	});
 }).catch(err => {
