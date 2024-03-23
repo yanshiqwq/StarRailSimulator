@@ -1,0 +1,4412 @@
+{
+    "standard": [
+        {
+            "health": 74.4000000692904,
+            "attack": 0.6400000005960464,
+            "defense": 210.0,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 72.00000006705523
+        },
+        {
+            "health": 97.65000000433065,
+            "attack": 0.7668870014604181,
+            "defense": 219.999990016222,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 94.50000000419095
+        },
+        {
+            "health": 102.3000000086613,
+            "attack": 0.8147860015742481,
+            "defense": 229.999980032444,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 99.0000000083819
+        },
+        {
+            "health": 126.71417406038381,
+            "attack": 1.1255280002951622,
+            "defense": 239.9999701953493,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 122.62662005843595
+        },
+        {
+            "health": 132.874866069993,
+            "attack": 1.1814780009444803,
+            "defense": 249.9999602115713,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 128.58858006773517
+        },
+        {
+            "health": 139.1457630742807,
+            "attack": 1.2385690005030483,
+            "defense": 259.99995008111,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 134.65719007188454
+        },
+        {
+            "health": 145.52714407537133,
+            "attack": 1.2968020003754646,
+            "defense": 269.999940097332,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 140.83272007294
+        },
+        {
+            "health": 152.0191950746812,
+            "attack": 1.3733440006617457,
+            "defense": 279.999930113554,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 147.11535007227212
+        },
+        {
+            "health": 158.62238107575104,
+            "attack": 1.4166960010770708,
+            "defense": 289.9999202764593,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 153.50553007330745
+        },
+        {
+            "health": 165.33670207858086,
+            "attack": 1.4601100005675107,
+            "defense": 299.999910145998,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 160.003260076046
+        },
+        {
+            "health": 176.93863814114593,
+            "attack": 1.6082400004379451,
+            "defense": 309.99990016222,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 171.23094013659284
+        },
+        {
+            "health": 188.5405739871785,
+            "attack": 1.756371001014486,
+            "defense": 320.00010018004104,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 182.4586199875921
+        },
+        {
+            "health": 200.14251004974358,
+            "attack": 1.9045010008849204,
+            "defense": 330.00009019626305,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 193.68630004813895
+        },
+        {
+            "health": 211.74435304664075,
+            "attack": 2.052631000522524,
+            "defense": 340.00008006580174,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 204.9138900451362
+        },
+        {
+            "health": 223.34628910920583,
+            "attack": 2.2007610010914505,
+            "defense": 350.00007022870705,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 216.14157010568306
+        },
+        {
+            "health": 234.9482250418514,
+            "attack": 2.348891000961885,
+            "defense": 360.00006024492905,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 227.36925004050136
+        },
+        {
+            "health": 246.55016110441647,
+            "attack": 2.497022000141442,
+            "defense": 370.00005026115105,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 238.5969301010482
+        },
+        {
+            "health": 258.15200410131365,
+            "attack": 2.645152000710368,
+            "defense": 380.00004013068974,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 249.82452009804547
+        },
+        {
+            "health": 269.7539401638787,
+            "attack": 2.7932820012792945,
+            "defense": 390.00003014691174,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 261.0522001585923
+        },
+        {
+            "health": 281.3558760099113,
+            "attack": 2.941412001149729,
+            "defense": 400.00002030981705,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 272.2798800095916
+        },
+        {
+            "health": 301.97658001841046,
+            "attack": 3.1915200005751103,
+            "defense": 410.00001032603905,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 292.2354000178166
+        },
+        {
+            "health": 322.59728409186937,
+            "attack": 3.4416270009242,
+            "defense": 420.0,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 312.19092008890584
+        },
+        {
+            "health": 343.21798810036853,
+            "attack": 3.691735001280904,
+            "defense": 429.999990016222,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 332.14644009713084
+        },
+        {
+            "health": 363.8386921088677,
+            "attack": 3.9418420016299933,
+            "defense": 439.999980032444,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 352.10196010535583
+        },
+        {
+            "health": 384.4593960957136,
+            "attack": 4.191950001055375,
+            "defense": 449.9999701953493,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 372.05748009262607
+        },
+        {
+            "health": 405.08019303996116,
+            "attack": 4.442057000705972,
+            "defense": 459.9999602115713,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 392.0130900386721
+        },
+        {
+            "health": 425.7008970484603,
+            "attack": 4.692165001062676,
+            "defense": 469.99995008111,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 411.9686100468971
+        },
+        {
+            "health": 446.3216010569595,
+            "attack": 4.942272001411766,
+            "defense": 479.999940097332,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 431.9241300551221
+        },
+        {
+            "health": 466.94230510876514,
+            "attack": 5.192380000837147,
+            "defense": 489.999930113554,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 451.8796501052566
+        },
+        {
+            "health": 487.56300905230455,
+            "attack": 5.442487001186237,
+            "defense": 499.9999202764593,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 471.8351700506173
+        },
+        {
+            "health": 527.3853301119525,
+            "attack": 5.761692001717165,
+            "defense": 509.999910145998,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 510.3729001083411
+        },
+        {
+            "health": 567.2075579543598,
+            "attack": 6.080898001324385,
+            "defense": 519.99990016222,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 548.9105399558321
+        },
+        {
+            "health": 607.0298790140077,
+            "attack": 6.40010300045833,
+            "defense": 530.000100180041,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 587.4482700135559
+        },
+        {
+            "health": 646.8522000736557,
+            "attack": 6.719308000290766,
+            "defense": 540.000090196263,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 625.9860000712797
+        },
+        {
+            "health": 686.6745211116504,
+            "attack": 7.038512999890372,
+            "defense": 550.0000800658017,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 664.5237301080488
+        },
+        {
+            "health": 726.4968421712983,
+            "attack": 7.3577180004213005,
+            "defense": 560.000070228707,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 703.0614601657726
+        },
+        {
+            "health": 766.3190700786654,
+            "attack": 7.676923000952229,
+            "defense": 570.000060244929,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 741.5991000761278
+        },
+        {
+            "health": 806.1413910733536,
+            "attack": 7.99612900079228,
+            "defense": 580.000050261151,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 780.1368300709873
+        },
+        {
+            "health": 845.9637120463885,
+            "attack": 8.315334000391886,
+            "defense": 590.0000401306897,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 818.6745600448921
+        },
+        {
+            "health": 885.7860331060365,
+            "attack": 8.634539000922814,
+            "defense": 600.0000301469117,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 857.212290102616
+        },
+        {
+            "health": 1003.110462059034,
+            "attack": 9.071262000594288,
+            "defense": 610.000020309817,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 970.7520600571297
+        },
+        {
+            "health": 1120.4349840560462,
+            "attack": 9.5079860012047,
+            "defense": 620.000010326039,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 1084.2919200542383
+        },
+        {
+            "health": 1237.759506009752,
+            "attack": 9.944709001109004,
+            "defense": 630.0,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 1197.8317800094374
+        },
+        {
+            "health": 1355.0839351576287,
+            "attack": 10.381433000788093,
+            "defense": 639.999990016222,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 1311.371550152544
+        },
+        {
+            "health": 1472.4084571113344,
+            "attack": 10.818156000692397,
+            "defense": 649.999980032444,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 1424.911410107743
+        },
+        {
+            "health": 1589.7329790433869,
+            "attack": 11.254880001069978,
+            "defense": 659.9999701953493,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 1538.4512700419873
+        },
+        {
+            "health": 1707.0574080613442,
+            "attack": 11.691603000974283,
+            "defense": 669.9999602115713,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 1651.9910400593653
+        },
+        {
+            "health": 1824.3819300150499,
+            "attack": 12.12832699995488,
+            "defense": 679.99995008111,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 1765.5309000145644
+        },
+        {
+            "health": 1941.706452098675,
+            "attack": 12.565050000557676,
+            "defense": 689.999940097332,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 1879.070760095492
+        },
+        {
+            "health": 2059.0308810300194,
+            "attack": 13.001774000935256,
+            "defense": 699.999930113554,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 1992.610530029051
+        },
+        {
+            "health": 2343.4623600086197,
+            "attack": 13.581057000905275,
+            "defense": 709.9999202764593,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.003999999724328518,
+            "effect_probability": 0.007999999448657036,
+            "enviro": 2267.8668000083417
+        },
+        {
+            "health": 2627.89383905218,
+            "attack": 14.160340000642464,
+            "defense": 719.999910145998,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.007999999448657036,
+            "effect_probability": 0.015999999595806003,
+            "enviro": 2543.1230700504966
+        },
+        {
+            "health": 2912.32531803078,
+            "attack": 14.739623000612482,
+            "defense": 729.99990016222,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.011999999871477485,
+            "effect_probability": 0.02399999974295497,
+            "enviro": 2818.3793400297873
+        },
+        {
+            "health": 3196.7567970743403,
+            "attack": 15.31890600034967,
+            "defense": 740.000100180041,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.015999999595806003,
+            "effect_probability": 0.031999999890103936,
+            "enviro": 3093.635610071942
+        },
+        {
+            "health": 3481.1882760529406,
+            "attack": 15.898189001018181,
+            "defense": 750.000090196263,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.02000000001862645,
+            "effect_probability": 0.0400000000372529,
+            "enviro": 3368.891880051233
+        },
+        {
+            "health": 3765.6197550965007,
+            "attack": 16.47747200075537,
+            "defense": 760.0000800658017,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.02399999974295497,
+            "effect_probability": 0.04799999948590994,
+            "enviro": 3644.148150093388
+        },
+        {
+            "health": 4050.051234075101,
+            "attack": 17.056755000492558,
+            "defense": 770.000070228707,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.027999999467283487,
+            "effect_probability": 0.055999999633058906,
+            "enviro": 3919.4044200726785
+        },
+        {
+            "health": 4334.482713053701,
+            "attack": 17.636038000462577,
+            "defense": 780.000060244929,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.031999999890103936,
+            "effect_probability": 0.06399999978020787,
+            "enviro": 4194.660690051969
+        },
+        {
+            "health": 4618.914192097262,
+            "attack": 18.215321000199765,
+            "defense": 790.000050261151,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.035999999614432454,
+            "effect_probability": 0.07199999992735684,
+            "enviro": 4469.916960094124
+        },
+        {
+            "health": 4903.345671075862,
+            "attack": 18.79460500087589,
+            "defense": 800.0000401306897,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0400000000372529,
+            "effect_probability": 0.0800000000745058,
+            "enviro": 4745.173230073415
+        },
+        {
+            "health": 5296.391757140402,
+            "attack": 19.336283000651747,
+            "defense": 810.0000301469117,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.04399999976158142,
+            "effect_probability": 0.08799999952316284,
+            "enviro": 5125.540410135873
+        },
+        {
+            "health": 5689.437843053369,
+            "attack": 19.877961001358926,
+            "defense": 820.000020309817,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.04799999948590994,
+            "effect_probability": 0.09599999967031181,
+            "enviro": 5505.907590051647
+        },
+        {
+            "health": 6082.483929052949,
+            "attack": 20.419640000443906,
+            "defense": 830.000010326039,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.05199999990873039,
+            "effect_probability": 0.10399999981746078,
+            "enviro": 5886.274770051241
+        },
+        {
+            "health": 6475.530015052529,
+            "attack": 20.961318001151085,
+            "defense": 840.0,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.055999999633058906,
+            "effect_probability": 0.11199999996460974,
+            "enviro": 6266.641950050835
+        },
+        {
+            "health": 6868.576101117069,
+            "attack": 21.502996001625434,
+            "defense": 849.999990016222,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.060000000055879354,
+            "effect_probability": 0.12000000011175871,
+            "enviro": 6647.0091301132925
+        },
+        {
+            "health": 7261.622187094996,
+            "attack": 22.044675000710413,
+            "defense": 859.999980032444,
+            "speed": 1.1000000000931323,
+            "stance": 1.0,
+            "effect_resistance": 0.06399999978020787,
+            "effect_probability": 0.12799999956041574,
+            "enviro": 7027.376310091931
+        },
+        {
+            "health": 7654.668273029616,
+            "attack": 22.5863530007191,
+            "defense": 869.9999701953493,
+            "speed": 1.1000000000931323,
+            "stance": 1.0,
+            "effect_resistance": 0.06799999950453639,
+            "effect_probability": 0.1359999997075647,
+            "enviro": 7407.743490028661
+        },
+        {
+            "health": 8047.714359094156,
+            "attack": 23.12803199980408,
+            "defense": 879.9999602115713,
+            "speed": 1.1000000000931323,
+            "stance": 1.0,
+            "effect_resistance": 0.07199999992735684,
+            "effect_probability": 0.14399999985471368,
+            "enviro": 7788.110670091119
+        },
+        {
+            "health": 8440.760445158696,
+            "attack": 23.66971000051126,
+            "defense": 889.99995008111,
+            "speed": 1.1000000000931323,
+            "stance": 1.0,
+            "effect_resistance": 0.07599999965168536,
+            "effect_probability": 0.15200000000186265,
+            "enviro": 8168.477850153577
+        },
+        {
+            "health": 8833.806531093316,
+            "attack": 24.211388000985608,
+            "defense": 899.999940097332,
+            "speed": 1.1000000000931323,
+            "stance": 1.0,
+            "effect_resistance": 0.0800000000745058,
+            "effect_probability": 0.1600000001490116,
+            "enviro": 8548.845030090306
+        },
+        {
+            "health": 9326.928336032666,
+            "attack": 24.858698001364246,
+            "defense": 909.999930113554,
+            "speed": 1.1000000000931323,
+            "stance": 1.0,
+            "effect_resistance": 0.08399999979883432,
+            "effect_probability": 0.16799999959766865,
+            "enviro": 9026.059680031613
+        },
+        {
+            "health": 9820.050234124297,
+            "attack": 25.50600800011307,
+            "defense": 919.9999202764593,
+            "speed": 1.1000000000931323,
+            "stance": 1.0,
+            "effect_resistance": 0.08799999952316284,
+            "effect_probability": 0.17599999974481761,
+            "enviro": 9503.274420120288
+        },
+        {
+            "health": 10313.172132086009,
+            "attack": 26.153318000258878,
+            "defense": 929.999910145998,
+            "speed": 1.1000000000931323,
+            "stance": 1.0,
+            "effect_resistance": 0.09199999994598329,
+            "effect_probability": 0.18399999989196658,
+            "enviro": 9980.489160083234
+        },
+        {
+            "health": 10806.294030026067,
+            "attack": 26.80062800133601,
+            "defense": 939.99990016222,
+            "speed": 1.1000000000931323,
+            "stance": 1.0,
+            "effect_resistance": 0.09599999967031181,
+            "effect_probability": 0.19200000003911555,
+            "enviro": 10457.703900025226
+        },
+        {
+            "health": 11299.41583505203,
+            "attack": 27.447938000783324,
+            "defense": 950.000100180041,
+            "speed": 1.1000000000931323,
+            "stance": 1.0,
+            "effect_resistance": 0.10000000009313226,
+            "effect_probability": 0.20000000018626451,
+            "enviro": 10934.918550050352
+        },
+        {
+            "health": 11792.537733143661,
+            "attack": 28.09524800023064,
+            "defense": 960.000090196263,
+            "speed": 1.1000000000931323,
+            "stance": 1.0,
+            "effect_resistance": 0.10000000009313226,
+            "effect_probability": 0.20799999963492155,
+            "enviro": 11412.133290139027
+        },
+        {
+            "health": 12285.65963108372,
+            "attack": 28.74255800130777,
+            "defense": 970.0000800658017,
+            "speed": 1.1000000000931323,
+            "stance": 1.0,
+            "effect_resistance": 0.10000000009313226,
+            "effect_probability": 0.21599999978207052,
+            "enviro": 11889.348030081019
+        },
+        {
+            "health": 12778.781529045431,
+            "attack": 29.389868000755087,
+            "defense": 980.000070228707,
+            "speed": 1.2000000001862645,
+            "stance": 1.0,
+            "effect_resistance": 0.10000000009313226,
+            "effect_probability": 0.22399999992921948,
+            "enviro": 12366.562770043965
+        },
+        {
+            "health": 13271.903427072102,
+            "attack": 30.037178000202402,
+            "defense": 990.000060244929,
+            "speed": 1.2000000001862645,
+            "stance": 1.0,
+            "effect_resistance": 0.10000000009313226,
+            "effect_probability": 0.23200000007636845,
+            "enviro": 12843.777510069776
+        },
+        {
+            "health": 13765.025232011452,
+            "attack": 30.684488001279533,
+            "defense": 1000.000050261151,
+            "speed": 1.2000000001862645,
+            "stance": 1.0,
+            "effect_resistance": 0.10000000009313226,
+            "effect_probability": 0.24000000022351742,
+            "enviro": 13320.992160011083
+        },
+        {
+            "health": 14460.33117604279,
+            "attack": 31.29817800037563,
+            "defense": 1010.0000401306897,
+            "speed": 1.2000000001862645,
+            "stance": 1.0,
+            "effect_resistance": 0.10000000009313226,
+            "effect_probability": 0.24799999967217445,
+            "enviro": 13993.86888004141
+        },
+        {
+            "health": 15181.363431091653,
+            "attack": 31.91186800180003,
+            "defense": 1020.0000301469117,
+            "speed": 1.2000000001862645,
+            "stance": 1.0,
+            "effect_resistance": 0.10000000009313226,
+            "effect_probability": 0.2559999998193234,
+            "enviro": 14691.642030088697
+        },
+        {
+            "health": 15929.073852087138,
+            "attack": 32.525558000896126,
+            "defense": 1030.000020309817,
+            "speed": 1.2000000001862645,
+            "stance": 1.0,
+            "effect_resistance": 0.10000000009313226,
+            "effect_probability": 0.2639999999664724,
+            "enviro": 15415.232760084327
+        },
+        {
+            "health": 16704.449634075863,
+            "attack": 33.13924699998461,
+            "defense": 1040.000010326039,
+            "speed": 1.2000000001862645,
+            "stance": 1.0,
+            "effect_resistance": 0.10000000009313226,
+            "effect_probability": 0.27200000011362135,
+            "enviro": 16165.596420073416
+        },
+        {
+            "health": 17508.514242099132,
+            "attack": 33.75293700140901,
+            "defense": 1050.0,
+            "speed": 1.2000000001862645,
+            "stance": 1.0,
+            "effect_resistance": 0.10000000009313226,
+            "effect_probability": 0.2800000002607703,
+            "enviro": 16943.723460095935
+        },
+        {
+            "health": 18342.32927101222,
+            "attack": 34.366627000505105,
+            "defense": 1059.999990016222,
+            "speed": 1.3200000002980232,
+            "stance": 1.0,
+            "effect_resistance": 0.10000000009313226,
+            "effect_probability": 0.28799999970942736,
+            "enviro": 17750.641230011825
+        },
+        {
+            "health": 19206.99546907679,
+            "attack": 34.980317001231015,
+            "defense": 1069.999980032444,
+            "speed": 1.3200000002980232,
+            "stance": 1.0,
+            "effect_resistance": 0.10000000009313226,
+            "effect_probability": 0.2959999998565763,
+            "enviro": 18587.414970074315
+        },
+        {
+            "health": 20103.65431799856,
+            "attack": 35.594006000319496,
+            "defense": 1079.9999701953493,
+            "speed": 1.3200000002980232,
+            "stance": 1.0,
+            "effect_resistance": 0.10000000009313226,
+            "effect_probability": 0.3040000000037253,
+            "enviro": 19455.149339998607
+        },
+        {
+            "health": 21033.489522042917,
+            "attack": 36.207696000812575,
+            "defense": 1089.9999602115713,
+            "speed": 1.3200000002980232,
+            "stance": 1.0,
+            "effect_resistance": 0.10000000009313226,
+            "effect_probability": 0.31200000015087426,
+            "enviro": 20354.989860041533
+        },
+        {
+            "health": 21997.728588072583,
+            "attack": 36.821386001538485,
+            "defense": 1099.99995008111,
+            "speed": 1.3200000002980232,
+            "stance": 1.0,
+            "effect_resistance": 0.10000000009313226,
+            "effect_probability": 0.3200000002980232,
+            "enviro": 21288.12444007024
+        },
+        {
+            "health": 22997.64459301578,
+            "attack": 37.43507600063458,
+            "defense": 1109.999940097332,
+            "speed": 1.3200000002980232,
+            "stance": 1.0,
+            "effect_resistance": 0.10000000009313226,
+            "effect_probability": 0.32799999974668026,
+            "enviro": 22255.78509001527
+        },
+        {
+            "health": 24034.55748600606,
+            "attack": 38.048765000421554,
+            "defense": 1119.999930113554,
+            "speed": 1.3200000002980232,
+            "stance": 1.0,
+            "effect_resistance": 0.10000000009313226,
+            "effect_probability": 0.3359999998938292,
+            "enviro": 23259.249180005863
+        },
+        {
+            "health": 25109.836041072384,
+            "attack": 38.662455001147464,
+            "defense": 1129.9999202764593,
+            "speed": 1.3200000002980232,
+            "stance": 1.0,
+            "effect_resistance": 0.10000000009313226,
+            "effect_probability": 0.3440000000409782,
+            "enviro": 24299.84133007005
+        },
+        {
+            "health": 26224.899996090448,
+            "attack": 39.27614500024356,
+            "defense": 1139.999910145998,
+            "speed": 1.3200000002980232,
+            "stance": 1.0,
+            "effect_resistance": 0.10000000009313226,
+            "effect_probability": 0.35200000018812716,
+            "enviro": 25378.93548008753
+        },
+        {
+            "health": 27381.22126209503,
+            "attack": 39.88983500096947,
+            "defense": 1149.99990016222,
+            "speed": 1.3200000002980232,
+            "stance": 1.0,
+            "effect_resistance": 0.10000000009313226,
+            "effect_probability": 0.3600000003352761,
+            "enviro": 26497.956060091965
+        },
+        {
+            "health": 28580.326527039986,
+            "attack": 40.50352500076406,
+            "defense": 1160.000100180041,
+            "speed": 1.3200000002980232,
+            "stance": 1.0,
+            "effect_resistance": 0.10000000009313226,
+            "effect_probability": 0.36799999978393316,
+            "enviro": 27658.380510038696
+        },
+        {
+            "health": 29823.79855802469,
+            "attack": 41.11721399985254,
+            "defense": 1170.000090196263,
+            "speed": 1.3200000002980232,
+            "stance": 1.0,
+            "effect_resistance": 0.10000000009313226,
+            "effect_probability": 0.37599999993108213,
+            "enviro": 28861.740540023893
+        },
+        {
+            "health": 31113.27908412111,
+            "attack": 41.73090400127694,
+            "defense": 1180.0000800658017,
+            "speed": 1.3200000002980232,
+            "stance": 1.0,
+            "effect_resistance": 0.10000000009313226,
+            "effect_probability": 0.3840000000782311,
+            "enviro": 30109.624920117203
+        },
+        {
+            "health": 32450.47047012672,
+            "attack": 42.34459400107153,
+            "defense": 1190.000070228707,
+            "speed": 1.3200000002980232,
+            "stance": 1.0,
+            "effect_resistance": 0.10000000009313226,
+            "effect_probability": 0.39200000022538006,
+            "enviro": 31403.68110012263
+        },
+        {
+            "health": 33837.13785614376,
+            "attack": 42.958284001098946,
+            "defense": 1200.000060244929,
+            "speed": 1.3200000002980232,
+            "stance": 1.0,
+            "effect_resistance": 0.10000000009313226,
+            "effect_probability": 0.40000000037252903,
+            "enviro": 32745.617280139122
+        }
+    ],
+    "powered": [
+        {
+            "health": 83.7000000779517,
+            "attack": 0.6800000006332994,
+            "defense": 210.0,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 81.00000007543713
+        },
+        {
+            "health": 97.65000000433065,
+            "attack": 0.7668870014604181,
+            "defense": 219.999990016222,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 94.50000000419095
+        },
+        {
+            "health": 102.3000000086613,
+            "attack": 0.8147870015818626,
+            "defense": 229.999980032444,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 99.0000000083819
+        },
+        {
+            "health": 126.71417406038381,
+            "attack": 1.1255290003027767,
+            "defense": 239.9999701953493,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 122.62662005843595
+        },
+        {
+            "health": 132.874866069993,
+            "attack": 1.1814790009520948,
+            "defense": 249.9999602115713,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 128.58858006773517
+        },
+        {
+            "health": 139.1457630742807,
+            "attack": 1.2385690005030483,
+            "defense": 259.99995008111,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 134.65719007188454
+        },
+        {
+            "health": 145.52714407537133,
+            "attack": 1.2968020003754646,
+            "defense": 269.999940097332,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 140.83272007294
+        },
+        {
+            "health": 152.0191950746812,
+            "attack": 1.3733440006617457,
+            "defense": 279.999930113554,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 147.11535007227212
+        },
+        {
+            "health": 158.62238107575104,
+            "attack": 1.4166970010846853,
+            "defense": 289.9999202764593,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 153.50553007330745
+        },
+        {
+            "health": 165.33670207858086,
+            "attack": 1.4601100005675107,
+            "defense": 299.999910145998,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 160.003260076046
+        },
+        {
+            "health": 176.93863814114593,
+            "attack": 1.6082410004455596,
+            "defense": 309.99990016222,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 171.23094013659284
+        },
+        {
+            "health": 194.19674098771065,
+            "attack": 1.5104790013283491,
+            "defense": 320.00010018004104,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 187.93232998810709
+        },
+        {
+            "health": 290.2065930403769,
+            "attack": 2.6282120002433658,
+            "defense": 330.00009019626305,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 280.8450900390744
+        },
+        {
+            "health": 412.90158602781594,
+            "attack": 2.873684001620859,
+            "defense": 340.00008006580174,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 399.58218002691865
+        },
+        {
+            "health": 433.2918360354379,
+            "attack": 2.8389830014202744,
+            "defense": 350.00007022870705,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 419.3146800342947
+        },
+        {
+            "health": 448.7511331080459,
+            "attack": 2.8421590011566877,
+            "defense": 360.00006024492905,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 434.27529010456055
+        },
+        {
+            "health": 357.4976730903145,
+            "attack": 3.4458910012617707,
+            "defense": 370.00005026115105,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 345.9654900874011
+        },
+        {
+            "health": 503.3964451155625,
+            "attack": 3.70321400067769,
+            "defense": 380.00004013068974,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 487.1578501118347
+        },
+        {
+            "health": 523.3227180331014,
+            "attack": 3.6033350008074194,
+            "defense": 390.00003014691174,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 506.4413400320336
+        },
+        {
+            "health": 537.3897120924667,
+            "attack": 3.559110000031069,
+            "defense": 400.00002030981705,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 520.0545600894839
+        },
+        {
+            "health": 316.96659902553074,
+            "attack": 2.904284001328051,
+            "defense": 410.00001032603905,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 306.74187002470717
+        },
+        {
+            "health": 493.2568410797976,
+            "attack": 4.9559440014418215,
+            "defense": 420.0,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 477.3453300772235
+        },
+        {
+            "health": 658.3818750190549,
+            "attack": 5.389934000559151,
+            "defense": 429.999990016222,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 637.1437500184402
+        },
+        {
+            "health": 734.1171691222116,
+            "attack": 5.7550910010468215,
+            "defense": 439.999980032444,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 710.4359701182693
+        },
+        {
+            "health": 817.7953141420148,
+            "attack": 6.162168000591919,
+            "defense": 449.9999701953493,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 791.4148201374337
+        },
+        {
+            "health": 1003.0573591093998,
+            "attack": 6.707508000545204,
+            "defense": 459.9999602115713,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 970.7006701058708
+        },
+        {
+            "health": 1041.1905210823752,
+            "attack": 6.803640001220629,
+            "defense": 469.99995008111,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 1007.6037300797179
+        },
+        {
+            "health": 1140.4616970238276,
+            "attack": 6.029574000276625,
+            "defense": 479.999940097332,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 1103.672610023059
+        },
+        {
+            "health": 1248.9066719873808,
+            "attack": 6.127008999697864,
+            "defense": 489.999930113554,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 1208.619359987788
+        },
+        {
+            "health": 1303.8925500547048,
+            "attack": 6.422136000590399,
+            "defense": 499.9999202764593,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 1261.83150005294
+        },
+        {
+            "health": 542.1377340636682,
+            "attack": 5.012674000812694,
+            "defense": 509.999910145998,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 524.6494200616144
+        },
+        {
+            "health": 894.5448660864495,
+            "attack": 8.817303000483662,
+            "defense": 519.99990016222,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 865.6885800836608
+        },
+        {
+            "health": 1127.137494033901,
+            "attack": 9.472154000774026,
+            "defense": 530.000100180041,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 1090.7782200328074
+        },
+        {
+            "health": 1336.8229200581554,
+            "attack": 9.94457800150849,
+            "defense": 540.000090196263,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 1293.6996000562795
+        },
+        {
+            "health": 1487.813721162267,
+            "attack": 10.417001999914646,
+            "defense": 550.0000800658017,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 1439.8197301570326
+        },
+        {
+            "health": 1820.8762020191643,
+            "attack": 10.595117000397295,
+            "defense": 560.000070228707,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 1762.1382600185461
+        },
+        {
+            "health": 2005.0046700595412,
+            "attack": 11.208310999907553,
+            "defense": 570.000060244929,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 1940.3271000576206
+        },
+        {
+            "health": 2101.2829200772103,
+            "attack": 11.754312000703067,
+            "defense": 580.000050261151,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 2033.4996000747196
+        },
+        {
+            "health": 2179.866525020683,
+            "attack": 9.146869000745937,
+            "defense": 590.0000401306897,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 2109.548250020016
+        },
+        {
+            "health": 2282.602788038319,
+            "attack": 9.497995001263916,
+            "defense": 600.0000301469117,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 2208.970440037083
+        },
+        {
+            "health": 999.4347300678492,
+            "attack": 7.3563580005429685,
+            "defense": 610.000020309817,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 967.1949000656605
+        },
+        {
+            "health": 1628.4984481106512,
+            "attack": 12.844756001373753,
+            "defense": 620.000010326039,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 1575.9662401070818
+        },
+        {
+            "health": 1725.9642150762957,
+            "attack": 13.405746000818908,
+            "defense": 630.0,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 1670.2879500738345
+        },
+        {
+            "health": 2022.6438871014398,
+            "attack": 12.875552001176402,
+            "defense": 639.999990016222,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 1957.3973100981675
+        },
+        {
+            "health": 3380.368650013581,
+            "attack": 16.508280000649393,
+            "defense": 649.999980032444,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 3271.324500013143
+        },
+        {
+            "health": 3718.228815176524,
+            "attack": 18.218856000574306,
+            "defense": 659.9999701953493,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 3598.28595017083
+        },
+        {
+            "health": 4454.360178088769,
+            "attack": 17.475577000994235,
+            "defense": 669.9999602115713,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 4310.671140085906
+        },
+        {
+            "health": 5336.618907142896,
+            "attack": 17.784262001048774,
+            "defense": 679.99995008111,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 5164.469910138287
+        },
+        {
+            "health": 5546.040957110468,
+            "attack": 18.662692001555115,
+            "defense": 689.999940097332,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 5367.136410106905
+        },
+        {
+            "health": 5732.887908128556,
+            "attack": 15.12102000019513,
+            "defense": 699.999930113554,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 5547.956040124409
+        },
+        {
+            "health": 2056.3393680627923,
+            "attack": 10.359120999928564,
+            "defense": 709.9999202764593,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.003999999724328518,
+            "effect_probability": 0.007999999448657036,
+            "enviro": 1990.0058400607668
+        },
+        {
+            "health": 3198.951690027723,
+            "attack": 18.015689000720158,
+            "defense": 719.999910145998,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.007999999448657036,
+            "effect_probability": 0.015999999595806003,
+            "enviro": 3095.759700026829
+        },
+        {
+            "health": 3386.33171707741,
+            "attack": 18.682970001595095,
+            "defense": 729.99990016222,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.011999999871477485,
+            "effect_probability": 0.02399999974295497,
+            "enviro": 3277.0952100749128
+        },
+        {
+            "health": 3963.1752841304988,
+            "attack": 17.81893700105138,
+            "defense": 740.000100180041,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.015999999595806003,
+            "effect_probability": 0.031999999890103936,
+            "enviro": 3835.330920126289
+        },
+        {
+            "health": 6890.889870068757,
+            "attack": 22.609733000630513,
+            "defense": 750.000090196263,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.02000000001862645,
+            "effect_probability": 0.0400000000372529,
+            "enviro": 6668.603100066539
+        },
+        {
+            "health": 7531.620624106843,
+            "attack": 24.851541001349688,
+            "defense": 760.0000800658017,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.02399999974295497,
+            "effect_probability": 0.04799999948590994,
+            "enviro": 7288.6651201033965
+        },
+        {
+            "health": 8636.38966507581,
+            "attack": 23.809893001336604,
+            "defense": 770.000070228707,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.027999999467283487,
+            "effect_probability": 0.055999999633058906,
+            "enviro": 8357.796450073365
+        },
+        {
+            "health": 10321.647780118743,
+            "attack": 24.23715900024399,
+            "defense": 780.000060244929,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.031999999890103936,
+            "effect_probability": 0.06399999978020787,
+            "enviro": 9988.691400114913
+        },
+        {
+            "health": 11239.545783081092,
+            "attack": 25.298076000297442,
+            "defense": 790.000050261151,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.035999999614432454,
+            "effect_probability": 0.07199999992735684,
+            "enviro": 10876.979790078476
+        },
+        {
+            "health": 11555.325237074867,
+            "attack": 21.505790001247078,
+            "defense": 800.0000401306897,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0400000000372529,
+            "effect_probability": 0.0800000000745058,
+            "enviro": 11182.572810072452
+        },
+        {
+            "health": 4054.392753069056,
+            "attack": 14.138349000131711,
+            "defense": 810.0000301469117,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.04399999976158142,
+            "effect_probability": 0.08799999952316284,
+            "enviro": 3923.6058900668286
+        },
+        {
+            "health": 6132.928059117403,
+            "attack": 24.04803799977526,
+            "defense": 820.000020309817,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.04799999948590994,
+            "effect_probability": 0.09599999967031181,
+            "enviro": 5935.091670113616
+        },
+        {
+            "health": 6522.684549056226,
+            "attack": 25.00956300017424,
+            "defense": 830.000010326039,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.05199999990873039,
+            "effect_probability": 0.10399999981746078,
+            "enviro": 6312.275370054413
+        },
+        {
+            "health": 7517.4072481021285,
+            "attack": 23.946739001199603,
+            "defense": 840.0,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.055999999633058906,
+            "effect_probability": 0.11199999996460974,
+            "enviro": 7274.910240098834
+        },
+        {
+            "health": 12673.431036064401,
+            "attack": 29.455974001204595,
+            "defense": 849.999990016222,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.060000000055879354,
+            "effect_probability": 0.12000000011175871,
+            "enviro": 12264.610680062324
+        },
+        {
+            "health": 13835.434044026071,
+            "attack": 32.47205700073391,
+            "defense": 859.999980032444,
+            "speed": 1.1000000000931323,
+            "stance": 1.0,
+            "effect_resistance": 0.06399999978020787,
+            "effect_probability": 0.12799999956041574,
+            "enviro": 13389.12972002523
+        },
+        {
+            "health": 15824.083176052663,
+            "attack": 31.020346000557765,
+            "defense": 869.9999701953493,
+            "speed": 1.1000000000931323,
+            "stance": 1.0,
+            "effect_resistance": 0.06799999950453639,
+            "effect_probability": 0.1359999997075647,
+            "enviro": 15313.628880050965
+        },
+        {
+            "health": 18820.295796071878,
+            "attack": 31.301006000256166,
+            "defense": 879.9999602115713,
+            "speed": 1.1000000000931323,
+            "stance": 1.0,
+            "effect_resistance": 0.07199999992735684,
+            "effect_probability": 0.14399999985471368,
+            "enviro": 18213.18948006956
+        },
+        {
+            "health": 20431.880055074813,
+            "attack": 32.602337000891566,
+            "defense": 889.99995008111,
+            "speed": 1.1000000000931323,
+            "stance": 1.0,
+            "effect_resistance": 0.07599999965168536,
+            "effect_probability": 0.15200000000186265,
+            "enviro": 19772.7871500724
+        },
+        {
+            "health": 21011.811594125815,
+            "attack": 27.780267001362517,
+            "defense": 899.999940097332,
+            "speed": 1.1000000000931323,
+            "stance": 1.0,
+            "effect_resistance": 0.0800000000745058,
+            "effect_probability": 0.1600000001490116,
+            "enviro": 20334.011220121756
+        },
+        {
+            "health": 7901.118459087331,
+            "attack": 18.453635000856593,
+            "defense": 909.999930113554,
+            "speed": 1.1000000000931323,
+            "stance": 1.0,
+            "effect_resistance": 0.08399999979883432,
+            "effect_probability": 0.16799999959766865,
+            "enviro": 7646.243670084514
+        },
+        {
+            "health": 11842.181040064897,
+            "attack": 31.141355000669137,
+            "defense": 919.9999202764593,
+            "speed": 1.1000000000931323,
+            "stance": 1.0,
+            "effect_resistance": 0.08799999952316284,
+            "effect_probability": 0.17599999974481761,
+            "enviro": 11460.175200062804
+        },
+        {
+            "health": 12526.2646740661,
+            "attack": 32.65557400113903,
+            "defense": 929.999910145998,
+            "speed": 1.1000000000931323,
+            "stance": 1.0,
+            "effect_resistance": 0.09199999994598329,
+            "effect_probability": 0.18399999989196658,
+            "enviro": 12122.191620063968
+        },
+        {
+            "health": 14435.632329097018,
+            "attack": 31.047068000072613,
+            "defense": 939.99990016222,
+            "speed": 1.1000000000931323,
+            "stance": 1.0,
+            "effect_resistance": 0.09599999967031181,
+            "effect_probability": 0.19200000003911555,
+            "enviro": 13969.966770093888
+        },
+        {
+            "health": 24130.779471114976,
+            "attack": 38.277271000435576,
+            "defense": 950.000100180041,
+            "speed": 1.1000000000931323,
+            "stance": 1.0,
+            "effect_resistance": 0.10000000009313226,
+            "effect_probability": 0.20000000018626451,
+            "enviro": 23352.367230111267
+        },
+        {
+            "health": 26309.929710138123,
+            "attack": 41.7638060010504,
+            "defense": 960.000090196263,
+            "speed": 1.1000000000931323,
+            "stance": 1.0,
+            "effect_resistance": 0.10000000009313226,
+            "effect_probability": 0.20799999963492155,
+            "enviro": 25461.222300133668
+        },
+        {
+            "health": 30006.485991135472,
+            "attack": 40.07906899997033,
+            "defense": 970.0000800658017,
+            "speed": 1.1000000000931323,
+            "stance": 1.0,
+            "effect_resistance": 0.10000000009313226,
+            "effect_probability": 0.21599999978207052,
+            "enviro": 29038.534830131102
+        },
+        {
+            "health": 35601.11005508434,
+            "attack": 40.41100400034338,
+            "defense": 980.000070228707,
+            "speed": 1.2000000001862645,
+            "stance": 1.0,
+            "effect_resistance": 0.10000000009313226,
+            "effect_probability": 0.22399999992921948,
+            "enviro": 34452.68715008162
+        },
+        {
+            "health": 38751.22484107339,
+            "attack": 41.81988200126216,
+            "defense": 990.000060244929,
+            "speed": 1.2000000001862645,
+            "stance": 1.0,
+            "effect_resistance": 0.10000000009313226,
+            "effect_probability": 0.23200000007636845,
+            "enviro": 37501.18533007102
+        },
+        {
+            "health": 39783.00022811489,
+            "attack": 35.74837900092825,
+            "defense": 1000.000050261151,
+            "speed": 1.2000000001862645,
+            "stance": 1.0,
+            "effect_resistance": 0.10000000009313226,
+            "effect_probability": 0.24000000022351742,
+            "enviro": 38499.677640111186
+        },
+        {
+            "health": 35687.35806905455,
+            "attack": 48.93491700128652,
+            "defense": 1010.0000401306897,
+            "speed": 1.2000000001862645,
+            "stance": 1.0,
+            "effect_resistance": 0.10000000009313226,
+            "effect_probability": 0.24799999967217445,
+            "enviro": 34536.15297005279
+        },
+        {
+            "health": 40509.1100971112,
+            "attack": 46.88803500053473,
+            "defense": 1020.0000301469117,
+            "speed": 1.2000000001862645,
+            "stance": 1.0,
+            "effect_resistance": 0.10000000009313226,
+            "effect_probability": 0.2559999998193234,
+            "enviro": 39202.364610107616
+        },
+        {
+            "health": 48187.95948602026,
+            "attack": 47.466063000494614,
+            "defense": 1030.000020309817,
+            "speed": 1.2000000001862645,
+            "stance": 1.0,
+            "effect_resistance": 0.10000000009313226,
+            "effect_probability": 0.2639999999664724,
+            "enviro": 46633.50918001961
+        },
+        {
+            "health": 52425.08208013326,
+            "attack": 49.29816700029187,
+            "defense": 1040.000010326039,
+            "speed": 1.2000000001862645,
+            "stance": 1.0,
+            "effect_resistance": 0.10000000009313226,
+            "effect_probability": 0.27200000011362135,
+            "enviro": 50733.95040012896
+        },
+        {
+            "health": 53808.52869005059,
+            "attack": 42.343089000787586,
+            "defense": 1050.0,
+            "speed": 1.2000000001862645,
+            "stance": 1.0,
+            "effect_resistance": 0.10000000009313226,
+            "effect_probability": 0.2800000002607703,
+            "enviro": 52072.76970004896
+        },
+        {
+            "health": 56583.4244670833,
+            "attack": 43.60437300102785,
+            "defense": 1059.999990016222,
+            "speed": 1.3200000002980232,
+            "stance": 1.0,
+            "effect_resistance": 0.10000000009313226,
+            "effect_probability": 0.28799999970942736,
+            "enviro": 54758.15271008061
+        },
+        {
+            "health": 59441.56724103587,
+            "attack": 44.865656001260504,
+            "defense": 1069.999980032444,
+            "speed": 1.3200000002980232,
+            "stance": 1.0,
+            "effect_resistance": 0.10000000009313226,
+            "effect_probability": 0.2959999998565763,
+            "enviro": 57524.09733003471
+        },
+        {
+            "health": 62385.454248106806,
+            "attack": 46.12694000056945,
+            "defense": 1079.9999701953493,
+            "speed": 1.3200000002980232,
+            "stance": 1.0,
+            "effect_resistance": 0.10000000009313226,
+            "effect_probability": 0.3040000000037253,
+            "enviro": 60373.02024010336
+        },
+        {
+            "health": 65417.657868092414,
+            "attack": 47.38822400011122,
+            "defense": 1089.9999602115713,
+            "speed": 1.3200000002980232,
+            "stance": 1.0,
+            "effect_resistance": 0.10000000009313226,
+            "effect_probability": 0.31200000015087426,
+            "enviro": 63307.41084008943
+        },
+        {
+            "health": 68540.8275780729,
+            "attack": 48.649507000343874,
+            "defense": 1099.99995008111,
+            "speed": 1.3200000002980232,
+            "stance": 1.0,
+            "effect_resistance": 0.10000000009313226,
+            "effect_probability": 0.3200000002980232,
+            "enviro": 66329.83314007055
+        },
+        {
+            "health": 71757.6924630634,
+            "attack": 49.910791001981124,
+            "defense": 1109.999940097332,
+            "speed": 1.3200000002980232,
+            "stance": 1.0,
+            "effect_resistance": 0.10000000009313226,
+            "effect_probability": 0.32799999974668026,
+            "enviro": 69442.92819006136
+        },
+        {
+            "health": 75071.0632620512,
+            "attack": 51.17207400058396,
+            "defense": 1119.999930113554,
+            "speed": 1.3200000002980232,
+            "stance": 1.0,
+            "effect_resistance": 0.10000000009313226,
+            "effect_probability": 0.3359999998938292,
+            "enviro": 72649.41606004955
+        },
+        {
+            "health": 78483.83515808196,
+            "attack": 52.43335800082423,
+            "defense": 1129.9999202764593,
+            "speed": 1.3200000002980232,
+            "stance": 1.0,
+            "effect_resistance": 0.10000000009313226,
+            "effect_probability": 0.3440000000409782,
+            "enviro": 75952.09854007931
+        },
+        {
+            "health": 81998.9901960832,
+            "attack": 53.69464100105688,
+            "defense": 1139.999910145998,
+            "speed": 1.3200000002980232,
+            "stance": 1.0,
+            "effect_resistance": 0.10000000009313226,
+            "effect_probability": 0.35200000018812716,
+            "enviro": 79353.86148008052
+        },
+        {
+            "health": 85619.59988714405,
+            "attack": 54.955925001297146,
+            "defense": 1149.99990016222,
+            "speed": 1.3200000002980232,
+            "stance": 1.0,
+            "effect_resistance": 0.10000000009313226,
+            "effect_probability": 0.3600000003352761,
+            "enviro": 82857.6773101394
+        },
+        {
+            "health": 89348.82790512429,
+            "attack": 56.21720799989998,
+            "defense": 1160.000100180041,
+            "speed": 1.3200000002980232,
+            "stance": 1.0,
+            "effect_resistance": 0.10000000009313226,
+            "effect_probability": 0.36799999978393316,
+            "enviro": 86466.60765012028
+        },
+        {
+            "health": 93189.93269106396,
+            "attack": 57.47849200083874,
+            "defense": 1170.000090196263,
+            "speed": 1.3200000002980232,
+            "stance": 1.0,
+            "effect_resistance": 0.10000000009313226,
+            "effect_probability": 0.37599999993108213,
+            "enviro": 90183.8058300619
+        },
+        {
+            "health": 97146.27070809994,
+            "attack": 58.73977500107139,
+            "defense": 1180.0000800658017,
+            "speed": 1.3200000002980232,
+            "stance": 1.0,
+            "effect_resistance": 0.10000000009313226,
+            "effect_probability": 0.3840000000782311,
+            "enviro": 94012.52004009672
+        },
+        {
+            "health": 101221.29885907285,
+            "attack": 60.00105900038034,
+            "defense": 1190.000070228707,
+            "speed": 1.3200000002980232,
+            "stance": 1.0,
+            "effect_resistance": 0.10000000009313226,
+            "effect_probability": 0.39200000022538006,
+            "enviro": 97956.0956700705
+        },
+        {
+            "health": 105418.57774209324,
+            "attack": 61.26234200061299,
+            "defense": 1200.000060244929,
+            "speed": 1.3200000002980232,
+            "stance": 1.0,
+            "effect_resistance": 0.10000000009313226,
+            "effect_probability": 0.40000000037252903,
+            "enviro": 102017.97846009023
+        }
+    ],
+    "moc": [
+        {
+            "health": 74.4000000692904,
+            "attack": 0.6400000005960464,
+            "defense": 210.0,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 72.00000006705523
+        },
+        {
+            "health": 97.65000000433065,
+            "attack": 0.7668870014604181,
+            "defense": 219.999990016222,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 94.50000000419095
+        },
+        {
+            "health": 102.3000000086613,
+            "attack": 0.8147860015742481,
+            "defense": 229.999980032444,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 99.0000000083819
+        },
+        {
+            "health": 126.71417406038381,
+            "attack": 1.1255280002951622,
+            "defense": 239.9999701953493,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 122.62662005843595
+        },
+        {
+            "health": 132.874866069993,
+            "attack": 1.1814780009444803,
+            "defense": 249.9999602115713,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 128.58858006773517
+        },
+        {
+            "health": 139.1457630742807,
+            "attack": 1.2385690005030483,
+            "defense": 259.99995008111,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 134.65719007188454
+        },
+        {
+            "health": 145.52714407537133,
+            "attack": 1.2968020003754646,
+            "defense": 269.999940097332,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 140.83272007294
+        },
+        {
+            "health": 152.0191950746812,
+            "attack": 1.3733440006617457,
+            "defense": 279.999930113554,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 147.11535007227212
+        },
+        {
+            "health": 158.62238107575104,
+            "attack": 1.4166960010770708,
+            "defense": 289.9999202764593,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 153.50553007330745
+        },
+        {
+            "health": 165.33670207858086,
+            "attack": 1.4601100005675107,
+            "defense": 299.999910145998,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 160.003260076046
+        },
+        {
+            "health": 176.93863814114593,
+            "attack": 1.6082400004379451,
+            "defense": 309.99990016222,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 171.23094013659284
+        },
+        {
+            "health": 188.5405739871785,
+            "attack": 1.756371001014486,
+            "defense": 320.00010018004104,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 182.4586199875921
+        },
+        {
+            "health": 200.14251004974358,
+            "attack": 1.9045010008849204,
+            "defense": 330.00009019626305,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 193.68630004813895
+        },
+        {
+            "health": 211.74435304664075,
+            "attack": 2.052631000522524,
+            "defense": 340.00008006580174,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 204.9138900451362
+        },
+        {
+            "health": 223.34628910920583,
+            "attack": 2.2007610010914505,
+            "defense": 350.00007022870705,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 216.14157010568306
+        },
+        {
+            "health": 234.9482250418514,
+            "attack": 2.348891000961885,
+            "defense": 360.00006024492905,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 227.36925004050136
+        },
+        {
+            "health": 246.55016110441647,
+            "attack": 2.497022000141442,
+            "defense": 370.00005026115105,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 238.5969301010482
+        },
+        {
+            "health": 258.15200410131365,
+            "attack": 2.645152000710368,
+            "defense": 380.00004013068974,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 249.82452009804547
+        },
+        {
+            "health": 269.7539401638787,
+            "attack": 2.7932820012792945,
+            "defense": 390.00003014691174,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 261.0522001585923
+        },
+        {
+            "health": 281.3558760099113,
+            "attack": 2.941412001149729,
+            "defense": 400.00002030981705,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 272.2798800095916
+        },
+        {
+            "health": 301.97658001841046,
+            "attack": 3.1915200005751103,
+            "defense": 410.00001032603905,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 292.2354000178166
+        },
+        {
+            "health": 322.59728409186937,
+            "attack": 3.4416270009242,
+            "defense": 420.0,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 312.19092008890584
+        },
+        {
+            "health": 343.21798810036853,
+            "attack": 3.691735001280904,
+            "defense": 429.999990016222,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 332.14644009713084
+        },
+        {
+            "health": 363.8386921088677,
+            "attack": 3.9418420016299933,
+            "defense": 439.999980032444,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 352.10196010535583
+        },
+        {
+            "health": 384.4593960957136,
+            "attack": 4.191950001055375,
+            "defense": 449.9999701953493,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 372.05748009262607
+        },
+        {
+            "health": 405.08019303996116,
+            "attack": 4.442057000705972,
+            "defense": 459.9999602115713,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 392.0130900386721
+        },
+        {
+            "health": 425.7008970484603,
+            "attack": 4.692165001062676,
+            "defense": 469.99995008111,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 411.9686100468971
+        },
+        {
+            "health": 446.3216010569595,
+            "attack": 4.942272001411766,
+            "defense": 479.999940097332,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 431.9241300551221
+        },
+        {
+            "health": 466.94230510876514,
+            "attack": 5.192380000837147,
+            "defense": 489.999930113554,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 451.8796501052566
+        },
+        {
+            "health": 487.56300905230455,
+            "attack": 5.442487001186237,
+            "defense": 499.9999202764593,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 471.8351700506173
+        },
+        {
+            "health": 527.3853301119525,
+            "attack": 5.761692001717165,
+            "defense": 509.999910145998,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 510.3729001083411
+        },
+        {
+            "health": 567.2075579543598,
+            "attack": 6.080898001324385,
+            "defense": 519.99990016222,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 548.9105399558321
+        },
+        {
+            "health": 607.0298790140077,
+            "attack": 6.40010300045833,
+            "defense": 530.000100180041,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 587.4482700135559
+        },
+        {
+            "health": 646.8522000736557,
+            "attack": 6.719308000290766,
+            "defense": 540.000090196263,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 625.9860000712797
+        },
+        {
+            "health": 686.6745211116504,
+            "attack": 7.038512999890372,
+            "defense": 550.0000800658017,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 664.5237301080488
+        },
+        {
+            "health": 726.4968421712983,
+            "attack": 7.3577180004213005,
+            "defense": 560.000070228707,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 703.0614601657726
+        },
+        {
+            "health": 766.3190700786654,
+            "attack": 7.676923000952229,
+            "defense": 570.000060244929,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 741.5991000761278
+        },
+        {
+            "health": 806.1413910733536,
+            "attack": 7.99612900079228,
+            "defense": 580.000050261151,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 780.1368300709873
+        },
+        {
+            "health": 845.9637120463885,
+            "attack": 8.315334000391886,
+            "defense": 590.0000401306897,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 818.6745600448921
+        },
+        {
+            "health": 885.7860331060365,
+            "attack": 8.634539000922814,
+            "defense": 600.0000301469117,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 857.212290102616
+        },
+        {
+            "health": 1003.110462059034,
+            "attack": 9.071262000594288,
+            "defense": 610.000020309817,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 970.7520600571297
+        },
+        {
+            "health": 1120.4349840560462,
+            "attack": 9.5079860012047,
+            "defense": 620.000010326039,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 1084.2919200542383
+        },
+        {
+            "health": 1237.759506009752,
+            "attack": 9.944709001109004,
+            "defense": 630.0,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 1197.8317800094374
+        },
+        {
+            "health": 1355.0839351576287,
+            "attack": 10.381433000788093,
+            "defense": 639.999990016222,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 1311.371550152544
+        },
+        {
+            "health": 1472.4084571113344,
+            "attack": 10.818156000692397,
+            "defense": 649.999980032444,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 1424.911410107743
+        },
+        {
+            "health": 1589.7329790433869,
+            "attack": 11.254880001069978,
+            "defense": 659.9999701953493,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 1538.4512700419873
+        },
+        {
+            "health": 1707.0574080613442,
+            "attack": 11.691603000974283,
+            "defense": 669.9999602115713,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 1651.9910400593653
+        },
+        {
+            "health": 1824.3819300150499,
+            "attack": 12.12832699995488,
+            "defense": 679.99995008111,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 1765.5309000145644
+        },
+        {
+            "health": 1941.706452098675,
+            "attack": 12.565050000557676,
+            "defense": 689.999940097332,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 1879.070760095492
+        },
+        {
+            "health": 2059.0308810300194,
+            "attack": 13.001774000935256,
+            "defense": 699.999930113554,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 1992.610530029051
+        },
+        {
+            "health": 2343.4623600086197,
+            "attack": 13.581057000905275,
+            "defense": 709.9999202764593,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.003999999724328518,
+            "effect_probability": 0.007999999448657036,
+            "enviro": 2267.8668000083417
+        },
+        {
+            "health": 2627.89383905218,
+            "attack": 14.160340000642464,
+            "defense": 719.999910145998,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.007999999448657036,
+            "effect_probability": 0.015999999595806003,
+            "enviro": 2543.1230700504966
+        },
+        {
+            "health": 2912.32531803078,
+            "attack": 14.739623000612482,
+            "defense": 729.99990016222,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.011999999871477485,
+            "effect_probability": 0.02399999974295497,
+            "enviro": 2818.3793400297873
+        },
+        {
+            "health": 3196.7567970743403,
+            "attack": 15.31890600034967,
+            "defense": 740.000100180041,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.015999999595806003,
+            "effect_probability": 0.031999999890103936,
+            "enviro": 3093.635610071942
+        },
+        {
+            "health": 3481.1882760529406,
+            "attack": 15.898189001018181,
+            "defense": 750.000090196263,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.02000000001862645,
+            "effect_probability": 0.0400000000372529,
+            "enviro": 3368.891880051233
+        },
+        {
+            "health": 3765.6197550965007,
+            "attack": 16.47747200075537,
+            "defense": 760.0000800658017,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.02399999974295497,
+            "effect_probability": 0.04799999948590994,
+            "enviro": 3644.148150093388
+        },
+        {
+            "health": 4050.051234075101,
+            "attack": 17.056755000492558,
+            "defense": 770.000070228707,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.027999999467283487,
+            "effect_probability": 0.055999999633058906,
+            "enviro": 3919.4044200726785
+        },
+        {
+            "health": 4334.482713053701,
+            "attack": 17.636038000462577,
+            "defense": 780.000060244929,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.031999999890103936,
+            "effect_probability": 0.06399999978020787,
+            "enviro": 4194.660690051969
+        },
+        {
+            "health": 4618.914192097262,
+            "attack": 18.215321000199765,
+            "defense": 790.000050261151,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.035999999614432454,
+            "effect_probability": 0.07199999992735684,
+            "enviro": 4469.916960094124
+        },
+        {
+            "health": 4903.345671075862,
+            "attack": 18.79460500087589,
+            "defense": 800.0000401306897,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0400000000372529,
+            "effect_probability": 0.0800000000745058,
+            "enviro": 4745.173230073415
+        },
+        {
+            "health": 5296.391757140402,
+            "attack": 19.336283000651747,
+            "defense": 810.0000301469117,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.04399999976158142,
+            "effect_probability": 0.08799999952316284,
+            "enviro": 5125.540410135873
+        },
+        {
+            "health": 5689.437843053369,
+            "attack": 19.877961001358926,
+            "defense": 820.000020309817,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.04799999948590994,
+            "effect_probability": 0.09599999967031181,
+            "enviro": 5505.907590051647
+        },
+        {
+            "health": 6082.483929052949,
+            "attack": 20.419640000443906,
+            "defense": 830.000010326039,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.05199999990873039,
+            "effect_probability": 0.10399999981746078,
+            "enviro": 5886.274770051241
+        },
+        {
+            "health": 6475.530015052529,
+            "attack": 20.961318001151085,
+            "defense": 840.0,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.055999999633058906,
+            "effect_probability": 0.11199999996460974,
+            "enviro": 6266.641950050835
+        },
+        {
+            "health": 6868.576101117069,
+            "attack": 21.502996001625434,
+            "defense": 849.999990016222,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.060000000055879354,
+            "effect_probability": 0.12000000011175871,
+            "enviro": 6647.0091301132925
+        },
+        {
+            "health": 7261.622187094996,
+            "attack": 22.044675000710413,
+            "defense": 859.999980032444,
+            "speed": 1.1000000000931323,
+            "stance": 1.0,
+            "effect_resistance": 0.06399999978020787,
+            "effect_probability": 0.12799999956041574,
+            "enviro": 7027.376310091931
+        },
+        {
+            "health": 7654.668273029616,
+            "attack": 22.5863530007191,
+            "defense": 869.9999701953493,
+            "speed": 1.1000000000931323,
+            "stance": 1.0,
+            "effect_resistance": 0.06799999950453639,
+            "effect_probability": 0.1359999997075647,
+            "enviro": 7407.743490028661
+        },
+        {
+            "health": 8047.714359094156,
+            "attack": 23.12803199980408,
+            "defense": 879.9999602115713,
+            "speed": 1.1000000000931323,
+            "stance": 1.0,
+            "effect_resistance": 0.07199999992735684,
+            "effect_probability": 0.14399999985471368,
+            "enviro": 7788.110670091119
+        },
+        {
+            "health": 8440.760445158696,
+            "attack": 23.66971000051126,
+            "defense": 889.99995008111,
+            "speed": 1.1000000000931323,
+            "stance": 1.0,
+            "effect_resistance": 0.07599999965168536,
+            "effect_probability": 0.15200000000186265,
+            "enviro": 8168.477850153577
+        },
+        {
+            "health": 8833.806531093316,
+            "attack": 24.211388000985608,
+            "defense": 899.999940097332,
+            "speed": 1.1000000000931323,
+            "stance": 1.0,
+            "effect_resistance": 0.0800000000745058,
+            "effect_probability": 0.1600000001490116,
+            "enviro": 8548.845030090306
+        },
+        {
+            "health": 9533.403774039354,
+            "attack": 24.858698001364246,
+            "defense": 909.999930113554,
+            "speed": 1.1000000000931323,
+            "stance": 1.0,
+            "effect_resistance": 0.08399999979883432,
+            "effect_probability": 0.16799999959766865,
+            "enviro": 9225.874620038085
+        },
+        {
+            "health": 10233.001017050352,
+            "attack": 25.50600800011307,
+            "defense": 919.9999202764593,
+            "speed": 1.1000000000931323,
+            "stance": 1.0,
+            "effect_resistance": 0.08799999952316284,
+            "effect_probability": 0.17599999974481761,
+            "enviro": 9902.904210048728
+        },
+        {
+            "health": 10932.598260083003,
+            "attack": 26.153318000258878,
+            "defense": 929.999910145998,
+            "speed": 1.1000000000931323,
+            "stance": 1.0,
+            "effect_resistance": 0.09199999994598329,
+            "effect_probability": 0.18399999989196658,
+            "enviro": 10579.933800080325
+        },
+        {
+            "health": 11632.195503029041,
+            "attack": 26.80062800133601,
+            "defense": 939.99990016222,
+            "speed": 1.1000000000931323,
+            "stance": 1.0,
+            "effect_resistance": 0.09599999967031181,
+            "effect_probability": 0.19200000003911555,
+            "enviro": 11256.963390028104
+        },
+        {
+            "health": 12331.792746061692,
+            "attack": 27.447938000783324,
+            "defense": 950.000100180041,
+            "speed": 1.1000000000931323,
+            "stance": 1.0,
+            "effect_resistance": 0.10000000009313226,
+            "effect_probability": 0.20000000018626451,
+            "enviro": 11933.992980059702
+        },
+        {
+            "health": 13031.38998907269,
+            "attack": 28.09524800023064,
+            "defense": 960.000090196263,
+            "speed": 1.1000000000931323,
+            "stance": 1.0,
+            "effect_resistance": 0.10000000009313226,
+            "effect_probability": 0.20799999963492155,
+            "enviro": 12611.022570070345
+        },
+        {
+            "health": 13730.98732504109,
+            "attack": 28.74255800130777,
+            "defense": 970.0000800658017,
+            "speed": 1.1000000000931323,
+            "stance": 1.0,
+            "effect_resistance": 0.10000000009313226,
+            "effect_probability": 0.21599999978207052,
+            "enviro": 13288.052250039764
+        },
+        {
+            "health": 14430.584568052087,
+            "attack": 29.389868000755087,
+            "defense": 980.000070228707,
+            "speed": 1.2000000001862645,
+            "stance": 1.0,
+            "effect_resistance": 0.10000000009313226,
+            "effect_probability": 0.22399999992921948,
+            "enviro": 13965.081840050407
+        },
+        {
+            "health": 15130.181811084738,
+            "attack": 30.037178000202402,
+            "defense": 990.000060244929,
+            "speed": 1.2000000001862645,
+            "stance": 1.0,
+            "effect_resistance": 0.10000000009313226,
+            "effect_probability": 0.23200000007636845,
+            "enviro": 14642.111430082005
+        },
+        {
+            "health": 15829.779054095736,
+            "attack": 30.684488001279533,
+            "defense": 1000.000050261151,
+            "speed": 1.2000000001862645,
+            "stance": 1.0,
+            "effect_resistance": 0.10000000009313226,
+            "effect_probability": 0.24000000022351742,
+            "enviro": 15319.141020092648
+        },
+        {
+            "health": 16714.268016069196,
+            "attack": 30.991333001293242,
+            "defense": 1010.0000401306897,
+            "speed": 1.2000000001862645,
+            "stance": 1.0,
+            "effect_resistance": 0.10000000009313226,
+            "effect_probability": 0.24799999967217445,
+            "enviro": 16175.098080066964
+        },
+        {
+            "health": 17642.981361080892,
+            "attack": 31.301247000694275,
+            "defense": 1020.0000301469117,
+            "speed": 1.2000000001862645,
+            "stance": 1.0,
+            "effect_resistance": 0.10000000009313226,
+            "effect_probability": 0.2559999998193234,
+            "enviro": 17073.852930078283
+        },
+        {
+            "health": 18618.13044307963,
+            "attack": 31.614259000867605,
+            "defense": 1030.000020309817,
+            "speed": 1.2000000001862645,
+            "stance": 1.0,
+            "effect_resistance": 0.10000000009313226,
+            "effect_probability": 0.2639999999664724,
+            "enviro": 18017.54559007706
+        },
+        {
+            "health": 19642.037007096922,
+            "attack": 31.93040200113319,
+            "defense": 1040.000010326039,
+            "speed": 1.2000000001862645,
+            "stance": 1.0,
+            "effect_resistance": 0.10000000009313226,
+            "effect_probability": 0.27200000011362135,
+            "enviro": 19008.422910093796
+        },
+        {
+            "health": 20717.13886211696,
+            "attack": 32.249706000089645,
+            "defense": 1050.0,
+            "speed": 1.2000000001862645,
+            "stance": 1.0,
+            "effect_resistance": 0.10000000009313226,
+            "effect_probability": 0.2800000002607703,
+            "enviro": 20048.844060113188
+        },
+        {
+            "health": 21845.99583312194,
+            "attack": 32.572203000541776,
+            "defense": 1059.999990016222,
+            "speed": 1.3200000002980232,
+            "stance": 1.0,
+            "effect_resistance": 0.10000000009313226,
+            "effect_probability": 0.28799999970942736,
+            "enviro": 21141.286290118005
+        },
+        {
+            "health": 23031.29562005005,
+            "attack": 32.89792500110343,
+            "defense": 1069.999980032444,
+            "speed": 1.3200000002980232,
+            "stance": 1.0,
+            "effect_resistance": 0.10000000009313226,
+            "effect_probability": 0.2959999998565763,
+            "enviro": 22288.350600048434
+        },
+        {
+            "health": 24275.860401083948,
+            "attack": 33.22690400038846,
+            "defense": 1079.9999701953493,
+            "speed": 1.3200000002980232,
+            "stance": 1.0,
+            "effect_resistance": 0.10000000009313226,
+            "effect_probability": 0.3040000000037253,
+            "enviro": 23492.76813008124
+        },
+        {
+            "health": 25582.653342072386,
+            "attack": 33.55917300051078,
+            "defense": 1089.9999602115713,
+            "speed": 1.3200000002980232,
+            "stance": 1.0,
+            "effect_resistance": 0.10000000009313226,
+            "effect_probability": 0.31200000015087426,
+            "enviro": 24757.40646007005
+        },
+        {
+            "health": 26954.786037063226,
+            "attack": 33.89476500148885,
+            "defense": 1099.99995008111,
+            "speed": 1.3200000002980232,
+            "stance": 1.0,
+            "effect_resistance": 0.10000000009313226,
+            "effect_probability": 0.3200000002980232,
+            "enviro": 26085.276810061187
+        },
+        {
+            "health": 28395.525390009396,
+            "attack": 34.06423900020309,
+            "defense": 1109.999940097332,
+            "speed": 1.3200000002980232,
+            "stance": 1.0,
+            "effect_resistance": 0.10000000009313226,
+            "effect_probability": 0.32799999974668026,
+            "enviro": 27479.540700009093
+        },
+        {
+            "health": 29908.30161308963,
+            "attack": 34.23456000071019,
+            "defense": 1119.999930113554,
+            "speed": 1.3200000002980232,
+            "stance": 1.0,
+            "effect_resistance": 0.10000000009313226,
+            "effect_probability": 0.3359999998938292,
+            "enviro": 28943.517690086737
+        },
+        {
+            "health": 31496.716689101653,
+            "attack": 34.40573300071992,
+            "defense": 1129.9999202764593,
+            "speed": 1.3200000002980232,
+            "stance": 1.0,
+            "effect_resistance": 0.10000000009313226,
+            "effect_probability": 0.3440000000409782,
+            "enviro": 30480.693570098374
+        },
+        {
+            "health": 33164.55255606584,
+            "attack": 34.577761000953615,
+            "defense": 1139.999910145998,
+            "speed": 1.3200000002980232,
+            "stance": 1.0,
+            "effect_resistance": 0.10000000009313226,
+            "effect_probability": 0.35200000018812716,
+            "enviro": 32094.72828006372
+        },
+        {
+            "health": 34915.78012807737,
+            "attack": 34.75065000145696,
+            "defense": 1149.99990016222,
+            "speed": 1.3200000002980232,
+            "stance": 1.0,
+            "effect_resistance": 0.10000000009313226,
+            "effect_probability": 0.3600000003352761,
+            "enviro": 33789.464640074875
+        },
+        {
+            "health": 36754.56915305648,
+            "attack": 34.92440300085582,
+            "defense": 1160.000100180041,
+            "speed": 1.3200000002980232,
+            "stance": 1.0,
+            "effect_resistance": 0.10000000009313226,
+            "effect_probability": 0.36799999978393316,
+            "enviro": 35568.93789005466
+        },
+        {
+            "health": 38685.29760616645,
+            "attack": 35.09902499965392,
+            "defense": 1170.000090196263,
+            "speed": 1.3200000002980232,
+            "stance": 1.0,
+            "effect_resistance": 0.10000000009313226,
+            "effect_probability": 0.37599999993108213,
+            "enviro": 37437.38478016108
+        },
+        {
+            "health": 40712.56247709459,
+            "attack": 35.27452000044286,
+            "defense": 1180.0000800658017,
+            "speed": 1.3200000002980232,
+            "stance": 1.0,
+            "effect_resistance": 0.10000000009313226,
+            "effect_probability": 0.3840000000782311,
+            "enviro": 39399.254010091536
+        },
+        {
+            "health": 42841.19065210945,
+            "attack": 35.4508930016309,
+            "defense": 1190.000070228707,
+            "speed": 1.3200000002980232,
+            "stance": 1.0,
+            "effect_resistance": 0.10000000009313226,
+            "effect_probability": 0.39200000022538006,
+            "enviro": 41459.21676010592
+        },
+        {
+            "health": 45076.25016615051,
+            "attack": 35.628147000446916,
+            "defense": 1200.000060244929,
+            "speed": 1.3200000002980232,
+            "stance": 1.0,
+            "effect_resistance": 0.10000000009313226,
+            "effect_probability": 0.40000000037252903,
+            "enviro": 43622.17758014565
+        }
+    ],
+    "aetherium_wars": [
+        {
+            "health": 223.99998601991683,
+            "attack": 8.333333000540733,
+            "defense": 0,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 216.77418001927435
+        },
+        {
+            "health": 291.20001906948164,
+            "attack": 11.555556000908837,
+            "defense": 0,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 281.8064700672403
+        },
+        {
+            "health": 302.84799002786167,
+            "attack": 12.01777800056152,
+            "defense": 0,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 293.0787000269629
+        },
+        {
+            "health": 314.96189109119587,
+            "attack": 12.498489000834525,
+            "defense": 0,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 304.80183008825406
+        },
+        {
+            "health": 327.5604150770232,
+            "attack": 12.998428000835702,
+            "defense": 0,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 316.9939500745386
+        },
+        {
+            "health": 340.66281306697056,
+            "attack": 13.51836600061506,
+            "defense": 0,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 329.6736900648102
+        },
+        {
+            "health": 354.28935908549465,
+            "attack": 14.059099999489263,
+            "defense": 0,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 342.86067008273676
+        },
+        {
+            "health": 368.4608851613011,
+            "attack": 14.62146400124766,
+            "defense": 0,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 356.57505015609786
+        },
+        {
+            "health": 383.1993390501011,
+            "attack": 15.206323000136763,
+            "defense": 0,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 370.83807004848495
+        },
+        {
+            "health": 392.77936204732396,
+            "attack": 15.662512000882998,
+            "defense": 0,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 380.1090600457974
+        },
+        {
+            "health": 414.38214606349356,
+            "attack": 17.07213900028728,
+            "defense": 0,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 401.0149800614454
+        },
+        {
+            "health": 424.741695020115,
+            "attack": 18.096467000432312,
+            "defense": 0,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 411.04035001946613
+        },
+        {
+            "health": 435.3602491300553,
+            "attack": 19.182255000574514,
+            "defense": 0,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 421.31637012586
+        },
+        {
+            "health": 446.24431805312634,
+            "attack": 20.141368000768125,
+            "defense": 0,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 431.8493400514126
+        },
+        {
+            "health": 457.40041209873743,
+            "attack": 21.148436000104994,
+            "defense": 0,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 442.64556009555236
+        },
+        {
+            "health": 468.8354130377993,
+            "attack": 22.205858000786975,
+            "defense": 0,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 453.71169003657997
+        },
+        {
+            "health": 480.55629603168927,
+            "attack": 23.3161510003265,
+            "defense": 0,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 465.05448003066704
+        },
+        {
+            "health": 492.57022204832174,
+            "attack": 24.481958001386374,
+            "defense": 0,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 476.680860046763
+        },
+        {
+            "health": 504.8844450779725,
+            "attack": 25.70605600066483,
+            "defense": 0,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 488.59785007545725
+        },
+        {
+            "health": 517.5065911137499,
+            "attack": 26.99135900149122,
+            "defense": 0,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 500.81283011008054
+        },
+        {
+            "health": 530.4441930830944,
+            "attack": 28.88075400167145,
+            "defense": 0,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 513.333090080414
+        },
+        {
+            "health": 543.7053421125747,
+            "attack": 30.902407001005486,
+            "defense": 0,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 526.1664601089433
+        },
+        {
+            "health": 557.2979431324638,
+            "attack": 33.065575000597164,
+            "defense": 0,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 539.3205901281908
+        },
+        {
+            "health": 571.2303660549223,
+            "attack": 35.38016600091942,
+            "defense": 0,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 552.8035800531507
+        },
+        {
+            "health": 585.5111670533661,
+            "attack": 37.856777001405135,
+            "defense": 0,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 566.6237100516446
+        },
+        {
+            "health": 600.1489950420801,
+            "attack": 38.80319700133987,
+            "defense": 0,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 580.7893500407226
+        },
+        {
+            "health": 615.1526850883383,
+            "attack": 39.773277001222596,
+            "defense": 0,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 595.3090500854887
+        },
+        {
+            "health": 630.5315370680764,
+            "attack": 40.767609000671655,
+            "defense": 0,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 610.1918100658804
+        },
+        {
+            "health": 680.9739930331707,
+            "attack": 44.02901699952781,
+            "defense": 0,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 659.0070900321007
+        },
+        {
+            "health": 697.9983870706055,
+            "attack": 45.12974300025962,
+            "defense": 0,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 675.4823100683279
+        },
+        {
+            "health": 697.9983870706055,
+            "attack": 45.12974300025962,
+            "defense": 0,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 675.4823100683279
+        },
+        {
+            "health": 697.9983870706055,
+            "attack": 45.12974300025962,
+            "defense": 0,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 675.4823100683279
+        },
+        {
+            "health": 697.9983870706055,
+            "attack": 45.12974300025962,
+            "defense": 0,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 675.4823100683279
+        },
+        {
+            "health": 697.9983870706055,
+            "attack": 45.12974300025962,
+            "defense": 0,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 675.4823100683279
+        },
+        {
+            "health": 697.9983870706055,
+            "attack": 45.12974300025962,
+            "defense": 0,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 675.4823100683279
+        },
+        {
+            "health": 697.9983870706055,
+            "attack": 45.12974300025962,
+            "defense": 0,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 675.4823100683279
+        },
+        {
+            "health": 697.9983870706055,
+            "attack": 45.12974300025962,
+            "defense": 0,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 675.4823100683279
+        },
+        {
+            "health": 697.9983870706055,
+            "attack": 45.12974300025962,
+            "defense": 0,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 675.4823100683279
+        },
+        {
+            "health": 697.9983870706055,
+            "attack": 45.12974300025962,
+            "defense": 0,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 675.4823100683279
+        },
+        {
+            "health": 697.9983870706055,
+            "attack": 45.12974300025962,
+            "defense": 0,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 675.4823100683279
+        }
+    ],
+    "1601": [
+        {
+            "health": 74.4000000692904,
+            "attack": 0.5120000003371388,
+            "defense": 210.0,
+            "speed": 0.8000000007450581,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 72.00000006705523
+        },
+        {
+            "health": 97.65000000433065,
+            "attack": 0.6135100007522851,
+            "defense": 219.999990016222,
+            "speed": 0.8000000007450581,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 94.50000000419095
+        },
+        {
+            "health": 102.3000000086613,
+            "attack": 0.6518290012609214,
+            "defense": 229.999980032444,
+            "speed": 0.8000000007450581,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 99.0000000083819
+        },
+        {
+            "health": 126.71417406038381,
+            "attack": 0.9004230012651533,
+            "defense": 239.9999701953493,
+            "speed": 0.8000000007450581,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 122.62662005843595
+        },
+        {
+            "health": 132.874866069993,
+            "attack": 0.9451830012258142,
+            "defense": 249.9999602115713,
+            "speed": 0.8000000007450581,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 128.58858006773517
+        },
+        {
+            "health": 139.1457630742807,
+            "attack": 0.9908550018444657,
+            "defense": 259.99995008111,
+            "speed": 0.8000000007450581,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 134.65719007188454
+        },
+        {
+            "health": 145.52714407537133,
+            "attack": 1.0374410001095384,
+            "defense": 269.999940097332,
+            "speed": 0.8000000007450581,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 140.83272007294
+        },
+        {
+            "health": 152.0191950746812,
+            "attack": 1.0986750004813075,
+            "defense": 279.999930113554,
+            "speed": 0.8000000007450581,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 147.11535007227212
+        },
+        {
+            "health": 158.62238107575104,
+            "attack": 1.1333570005372167,
+            "defense": 289.9999202764593,
+            "speed": 0.8000000007450581,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 153.50553007330745
+        },
+        {
+            "health": 165.33670207858086,
+            "attack": 1.168088000267744,
+            "defense": 299.999910145998,
+            "speed": 0.8000000007450581,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 160.003260076046
+        },
+        {
+            "health": 176.93863814114593,
+            "attack": 1.2865920008625835,
+            "defense": 309.99990016222,
+            "speed": 0.8000000007450581,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 171.23094013659284
+        },
+        {
+            "health": 188.5405739871785,
+            "attack": 1.405096000758931,
+            "defense": 320.00010018004104,
+            "speed": 0.8000000007450581,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 182.4586199875921
+        },
+        {
+            "health": 200.14251004974358,
+            "attack": 1.523601000662893,
+            "defense": 330.00009019626305,
+            "speed": 0.8000000007450581,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 193.68630004813895
+        },
+        {
+            "health": 211.74435304664075,
+            "attack": 1.6421050005592406,
+            "defense": 340.00008006580174,
+            "speed": 0.8000000007450581,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 204.9138900451362
+        },
+        {
+            "health": 223.34628910920583,
+            "attack": 1.76060900115408,
+            "defense": 350.00007022870705,
+            "speed": 0.8000000007450581,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 216.14157010568306
+        },
+        {
+            "health": 234.9482250418514,
+            "attack": 1.8791130003519356,
+            "defense": 360.00006024492905,
+            "speed": 0.8000000007450581,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 227.36925004050136
+        },
+        {
+            "health": 246.55016110441647,
+            "attack": 1.997617000946775,
+            "defense": 370.00005026115105,
+            "speed": 0.8000000007450581,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 238.5969301010482
+        },
+        {
+            "health": 258.15200410131365,
+            "attack": 2.1161219999194145,
+            "defense": 380.00004013068974,
+            "speed": 0.8000000007450581,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 249.82452009804547
+        },
+        {
+            "health": 269.7539401638787,
+            "attack": 2.234626000514254,
+            "defense": 390.00003014691174,
+            "speed": 0.8000000007450581,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 261.0522001585923
+        },
+        {
+            "health": 281.3558760099113,
+            "attack": 2.3531300004106015,
+            "defense": 400.00002030981705,
+            "speed": 0.8000000007450581,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 272.2798800095916
+        },
+        {
+            "health": 301.97658001841046,
+            "attack": 2.5532160005532205,
+            "defense": 410.00001032603905,
+            "speed": 0.8000000007450581,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 292.2354000178166
+        },
+        {
+            "health": 322.59728409186937,
+            "attack": 2.7533020006958395,
+            "defense": 420.0,
+            "speed": 0.8000000007450581,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 312.19092008890584
+        },
+        {
+            "health": 343.21798810036853,
+            "attack": 2.9533880015369505,
+            "defense": 429.999990016222,
+            "speed": 0.8000000007450581,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 332.14644009713084
+        },
+        {
+            "health": 363.8386921088677,
+            "attack": 3.153474000748247,
+            "defense": 439.999980032444,
+            "speed": 0.8000000007450581,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 352.10196010535583
+        },
+        {
+            "health": 384.4593960957136,
+            "attack": 3.353560000890866,
+            "defense": 449.9999701953493,
+            "speed": 0.8000000007450581,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 372.05748009262607
+        },
+        {
+            "health": 405.08019303996116,
+            "attack": 3.553646001033485,
+            "defense": 459.9999602115713,
+            "speed": 0.8000000007450581,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 392.0130900386721
+        },
+        {
+            "health": 425.7008970484603,
+            "attack": 3.753732001176104,
+            "defense": 469.99995008111,
+            "speed": 0.8000000007450581,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 411.9686100468971
+        },
+        {
+            "health": 446.3216010569595,
+            "attack": 3.953818001318723,
+            "defense": 479.999940097332,
+            "speed": 0.8000000007450581,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 431.9241300551221
+        },
+        {
+            "health": 466.94230510876514,
+            "attack": 4.153904000530019,
+            "defense": 489.999930113554,
+            "speed": 0.8000000007450581,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 451.8796501052566
+        },
+        {
+            "health": 487.56300905230455,
+            "attack": 4.35399000137113,
+            "defense": 499.9999202764593,
+            "speed": 0.8000000007450581,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 471.8351700506173
+        },
+        {
+            "health": 527.3853301119525,
+            "attack": 4.609354000538588,
+            "defense": 509.999910145998,
+            "speed": 0.8000000007450581,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 510.3729001083411
+        },
+        {
+            "health": 567.2075579543598,
+            "attack": 4.864718001103029,
+            "defense": 519.99990016222,
+            "speed": 0.8000000007450581,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 548.9105399558321
+        },
+        {
+            "health": 607.0298790140077,
+            "attack": 5.120082000736147,
+            "defense": 530.000100180041,
+            "speed": 0.8000000007450581,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 587.4482700135559
+        },
+        {
+            "health": 646.8522000736557,
+            "attack": 5.375446000602096,
+            "defense": 540.000090196263,
+            "speed": 0.8000000007450581,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 625.9860000712797
+        },
+        {
+            "health": 686.6745211116504,
+            "attack": 5.630810001166537,
+            "defense": 550.0000800658017,
+            "speed": 0.8000000007450581,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 664.5237301080488
+        },
+        {
+            "health": 726.4968421712983,
+            "attack": 5.886175001040101,
+            "defense": 560.000070228707,
+            "speed": 0.8000000007450581,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 703.0614601657726
+        },
+        {
+            "health": 766.3190700786654,
+            "attack": 6.14153900067322,
+            "defense": 570.000060244929,
+            "speed": 0.8000000007450581,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 741.5991000761278
+        },
+        {
+            "health": 806.1413910733536,
+            "attack": 6.396903000539169,
+            "defense": 580.000050261151,
+            "speed": 0.8000000007450581,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 780.1368300709873
+        },
+        {
+            "health": 845.9637120463885,
+            "attack": 6.65226700110361,
+            "defense": 590.0000401306897,
+            "speed": 0.8000000007450581,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 818.6745600448921
+        },
+        {
+            "health": 885.7860331060365,
+            "attack": 6.907631000969559,
+            "defense": 600.0000301469117,
+            "speed": 0.8000000007450581,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 857.212290102616
+        },
+        {
+            "health": 1003.110462059034,
+            "attack": 7.2570099998265505,
+            "defense": 610.000020309817,
+            "speed": 0.8000000007450581,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 970.7520600571297
+        },
+        {
+            "health": 1120.4349840560462,
+            "attack": 7.6063890010118484,
+            "defense": 620.000010326039,
+            "speed": 0.8000000007450581,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 1084.2919200542383
+        },
+        {
+            "health": 1237.759506009752,
+            "attack": 7.9557680014986545,
+            "defense": 630.0,
+            "speed": 0.8000000007450581,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 1197.8317800094374
+        },
+        {
+            "health": 1355.0839351576287,
+            "attack": 8.305146000348032,
+            "defense": 639.999990016222,
+            "speed": 0.8000000007450581,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 1311.371550152544
+        },
+        {
+            "health": 1472.4084571113344,
+            "attack": 8.654525000834838,
+            "defense": 649.999980032444,
+            "speed": 0.8000000007450581,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 1424.911410107743
+        },
+        {
+            "health": 1589.7329790433869,
+            "attack": 9.003904000390321,
+            "defense": 659.9999701953493,
+            "speed": 0.8000000007450581,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 1538.4512700419873
+        },
+        {
+            "health": 1707.0574080613442,
+            "attack": 9.353283000877127,
+            "defense": 669.9999602115713,
+            "speed": 0.8000000007450581,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 1651.9910400593653
+        },
+        {
+            "health": 1824.3819300150499,
+            "attack": 9.702661001356319,
+            "defense": 679.99995008111,
+            "speed": 0.8000000007450581,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 1765.5309000145644
+        },
+        {
+            "health": 1941.706452098675,
+            "attack": 10.05204000021331,
+            "defense": 689.999940097332,
+            "speed": 0.8000000007450581,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 1879.070760095492
+        },
+        {
+            "health": 2059.0308810300194,
+            "attack": 10.401419000700116,
+            "defense": 699.999930113554,
+            "speed": 0.8000000007450581,
+            "stance": 1.0,
+            "effect_resistance": 0.0,
+            "effect_probability": 0.0,
+            "enviro": 1992.610530029051
+        },
+        {
+            "health": 2343.4623600086197,
+            "attack": 10.864846001379192,
+            "defense": 709.9999202764593,
+            "speed": 0.8000000007450581,
+            "stance": 1.0,
+            "effect_resistance": 0.003999999724328518,
+            "effect_probability": 0.007999999448657036,
+            "enviro": 2267.8668000083417
+        },
+        {
+            "health": 2627.89383905218,
+            "attack": 11.328272000420839,
+            "defense": 719.999910145998,
+            "speed": 0.8000000007450581,
+            "stance": 1.0,
+            "effect_resistance": 0.007999999448657036,
+            "effect_probability": 0.015999999595806003,
+            "enviro": 2543.1230700504966
+        },
+        {
+            "health": 2912.32531803078,
+            "attack": 11.791698001790792,
+            "defense": 729.99990016222,
+            "speed": 0.8000000007450581,
+            "stance": 1.0,
+            "effect_resistance": 0.011999999871477485,
+            "effect_probability": 0.02399999974295497,
+            "enviro": 2818.3793400297873
+        },
+        {
+            "health": 3196.7567970743403,
+            "attack": 12.255125000141561,
+            "defense": 740.000100180041,
+            "speed": 0.8000000007450581,
+            "stance": 1.0,
+            "effect_resistance": 0.015999999595806003,
+            "effect_probability": 0.031999999890103936,
+            "enviro": 3093.635610071942
+        },
+        {
+            "health": 3481.1882760529406,
+            "attack": 12.718551000813022,
+            "defense": 750.000090196263,
+            "speed": 0.8000000007450581,
+            "stance": 1.0,
+            "effect_resistance": 0.02000000001862645,
+            "effect_probability": 0.0400000000372529,
+            "enviro": 3368.891880051233
+        },
+        {
+            "health": 3765.6197550965007,
+            "attack": 13.181978001259267,
+            "defense": 760.0000800658017,
+            "speed": 0.8000000007450581,
+            "stance": 1.0,
+            "effect_resistance": 0.02399999974295497,
+            "effect_probability": 0.04799999948590994,
+            "enviro": 3644.148150093388
+        },
+        {
+            "health": 4050.051234075101,
+            "attack": 13.645404000533745,
+            "defense": 770.000070228707,
+            "speed": 0.8000000007450581,
+            "stance": 1.0,
+            "effect_resistance": 0.027999999467283487,
+            "effect_probability": 0.055999999633058906,
+            "enviro": 3919.4044200726785
+        },
+        {
+            "health": 4334.482713053701,
+            "attack": 14.108831000281498,
+            "defense": 780.000060244929,
+            "speed": 0.8000000007450581,
+            "stance": 1.0,
+            "effect_resistance": 0.031999999890103936,
+            "effect_probability": 0.06399999978020787,
+            "enviro": 4194.660690051969
+        },
+        {
+            "health": 4618.914192097262,
+            "attack": 14.572257000952959,
+            "defense": 790.000050261151,
+            "speed": 0.8000000007450581,
+            "stance": 1.0,
+            "effect_resistance": 0.035999999614432454,
+            "effect_probability": 0.07199999992735684,
+            "enviro": 4469.916960094124
+        },
+        {
+            "health": 4903.345671075862,
+            "attack": 15.035684000700712,
+            "defense": 800.0000401306897,
+            "speed": 0.8000000007450581,
+            "stance": 1.0,
+            "effect_resistance": 0.0400000000372529,
+            "effect_probability": 0.0800000000745058,
+            "enviro": 4745.173230073415
+        },
+        {
+            "health": 5296.391757140402,
+            "attack": 19.336283000651747,
+            "defense": 810.0000301469117,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.04399999976158142,
+            "effect_probability": 0.08799999952316284,
+            "enviro": 5125.540410135873
+        },
+        {
+            "health": 5689.437843053369,
+            "attack": 19.877961001358926,
+            "defense": 820.000020309817,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.04799999948590994,
+            "effect_probability": 0.09599999967031181,
+            "enviro": 5505.907590051647
+        },
+        {
+            "health": 6082.483929052949,
+            "attack": 20.419640000443906,
+            "defense": 830.000010326039,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.05199999990873039,
+            "effect_probability": 0.10399999981746078,
+            "enviro": 5886.274770051241
+        },
+        {
+            "health": 6475.530015052529,
+            "attack": 20.961318001151085,
+            "defense": 840.0,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.055999999633058906,
+            "effect_probability": 0.11199999996460974,
+            "enviro": 6266.641950050835
+        },
+        {
+            "health": 6868.576101117069,
+            "attack": 21.502996001625434,
+            "defense": 849.999990016222,
+            "speed": 1.0,
+            "stance": 1.0,
+            "effect_resistance": 0.060000000055879354,
+            "effect_probability": 0.12000000011175871,
+            "enviro": 6647.0091301132925
+        },
+        {
+            "health": 7261.622187094996,
+            "attack": 22.044675000710413,
+            "defense": 859.999980032444,
+            "speed": 1.1000000000931323,
+            "stance": 1.0,
+            "effect_resistance": 0.06399999978020787,
+            "effect_probability": 0.12799999956041574,
+            "enviro": 7027.376310091931
+        },
+        {
+            "health": 7654.668273029616,
+            "attack": 22.5863530007191,
+            "defense": 869.9999701953493,
+            "speed": 1.1000000000931323,
+            "stance": 1.0,
+            "effect_resistance": 0.06799999950453639,
+            "effect_probability": 0.1359999997075647,
+            "enviro": 7407.743490028661
+        },
+        {
+            "health": 8047.714359094156,
+            "attack": 23.12803199980408,
+            "defense": 879.9999602115713,
+            "speed": 1.1000000000931323,
+            "stance": 1.0,
+            "effect_resistance": 0.07199999992735684,
+            "effect_probability": 0.14399999985471368,
+            "enviro": 7788.110670091119
+        },
+        {
+            "health": 8440.760445158696,
+            "attack": 23.66971000051126,
+            "defense": 889.99995008111,
+            "speed": 1.1000000000931323,
+            "stance": 1.0,
+            "effect_resistance": 0.07599999965168536,
+            "effect_probability": 0.15200000000186265,
+            "enviro": 8168.477850153577
+        },
+        {
+            "health": 8833.806531093316,
+            "attack": 24.211388000985608,
+            "defense": 899.999940097332,
+            "speed": 1.1000000000931323,
+            "stance": 1.0,
+            "effect_resistance": 0.0800000000745058,
+            "effect_probability": 0.1600000001490116,
+            "enviro": 8548.845030090306
+        },
+        {
+            "health": 9326.928336032666,
+            "attack": 24.858698001364246,
+            "defense": 909.999930113554,
+            "speed": 1.1000000000931323,
+            "stance": 1.0,
+            "effect_resistance": 0.08399999979883432,
+            "effect_probability": 0.16799999959766865,
+            "enviro": 9026.059680031613
+        },
+        {
+            "health": 9820.050234124297,
+            "attack": 25.50600800011307,
+            "defense": 919.9999202764593,
+            "speed": 1.1000000000931323,
+            "stance": 1.0,
+            "effect_resistance": 0.08799999952316284,
+            "effect_probability": 0.17599999974481761,
+            "enviro": 9503.274420120288
+        },
+        {
+            "health": 10313.172132086009,
+            "attack": 26.153318000258878,
+            "defense": 929.999910145998,
+            "speed": 1.1000000000931323,
+            "stance": 1.0,
+            "effect_resistance": 0.09199999994598329,
+            "effect_probability": 0.18399999989196658,
+            "enviro": 9980.489160083234
+        },
+        {
+            "health": 10806.294030026067,
+            "attack": 26.80062800133601,
+            "defense": 939.99990016222,
+            "speed": 1.1000000000931323,
+            "stance": 1.0,
+            "effect_resistance": 0.09599999967031181,
+            "effect_probability": 0.19200000003911555,
+            "enviro": 10457.703900025226
+        },
+        {
+            "health": 11299.41583505203,
+            "attack": 27.447938000783324,
+            "defense": 950.000100180041,
+            "speed": 1.1000000000931323,
+            "stance": 1.0,
+            "effect_resistance": 0.10000000009313226,
+            "effect_probability": 0.20000000018626451,
+            "enviro": 10934.918550050352
+        },
+        {
+            "health": 11792.537733143661,
+            "attack": 28.09524800023064,
+            "defense": 960.000090196263,
+            "speed": 1.1000000000931323,
+            "stance": 1.0,
+            "effect_resistance": 0.10000000009313226,
+            "effect_probability": 0.20799999963492155,
+            "enviro": 11412.133290139027
+        },
+        {
+            "health": 12285.65963108372,
+            "attack": 28.74255800130777,
+            "defense": 970.0000800658017,
+            "speed": 1.1000000000931323,
+            "stance": 1.0,
+            "effect_resistance": 0.10000000009313226,
+            "effect_probability": 0.21599999978207052,
+            "enviro": 11889.348030081019
+        },
+        {
+            "health": 12778.781529045431,
+            "attack": 29.389868000755087,
+            "defense": 980.000070228707,
+            "speed": 1.2000000001862645,
+            "stance": 1.0,
+            "effect_resistance": 0.10000000009313226,
+            "effect_probability": 0.22399999992921948,
+            "enviro": 12366.562770043965
+        },
+        {
+            "health": 13271.903427072102,
+            "attack": 30.037178000202402,
+            "defense": 990.000060244929,
+            "speed": 1.2000000001862645,
+            "stance": 1.0,
+            "effect_resistance": 0.10000000009313226,
+            "effect_probability": 0.23200000007636845,
+            "enviro": 12843.777510069776
+        },
+        {
+            "health": 13765.025232011452,
+            "attack": 30.684488001279533,
+            "defense": 1000.000050261151,
+            "speed": 1.2000000001862645,
+            "stance": 1.0,
+            "effect_resistance": 0.10000000009313226,
+            "effect_probability": 0.24000000022351742,
+            "enviro": 13320.992160011083
+        },
+        {
+            "health": 14460.33117604279,
+            "attack": 31.29817800037563,
+            "defense": 1010.0000401306897,
+            "speed": 1.2000000001862645,
+            "stance": 1.0,
+            "effect_resistance": 0.10000000009313226,
+            "effect_probability": 0.24799999967217445,
+            "enviro": 13993.86888004141
+        },
+        {
+            "health": 15181.363431091653,
+            "attack": 31.91186800180003,
+            "defense": 1020.0000301469117,
+            "speed": 1.2000000001862645,
+            "stance": 1.0,
+            "effect_resistance": 0.10000000009313226,
+            "effect_probability": 0.2559999998193234,
+            "enviro": 14691.642030088697
+        },
+        {
+            "health": 15929.073852087138,
+            "attack": 32.525558000896126,
+            "defense": 1030.000020309817,
+            "speed": 1.2000000001862645,
+            "stance": 1.0,
+            "effect_resistance": 0.10000000009313226,
+            "effect_probability": 0.2639999999664724,
+            "enviro": 15415.232760084327
+        },
+        {
+            "health": 16704.449634075863,
+            "attack": 33.13924699998461,
+            "defense": 1040.000010326039,
+            "speed": 1.2000000001862645,
+            "stance": 1.0,
+            "effect_resistance": 0.10000000009313226,
+            "effect_probability": 0.27200000011362135,
+            "enviro": 16165.596420073416
+        },
+        {
+            "health": 17508.514242099132,
+            "attack": 33.75293700140901,
+            "defense": 1050.0,
+            "speed": 1.2000000001862645,
+            "stance": 1.0,
+            "effect_resistance": 0.10000000009313226,
+            "effect_probability": 0.2800000002607703,
+            "enviro": 16943.723460095935
+        },
+        {
+            "health": 18342.32927101222,
+            "attack": 34.366627000505105,
+            "defense": 1059.999990016222,
+            "speed": 1.3200000002980232,
+            "stance": 1.0,
+            "effect_resistance": 0.10000000009313226,
+            "effect_probability": 0.28799999970942736,
+            "enviro": 17750.641230011825
+        },
+        {
+            "health": 19206.99546907679,
+            "attack": 34.980317001231015,
+            "defense": 1069.999980032444,
+            "speed": 1.3200000002980232,
+            "stance": 1.0,
+            "effect_resistance": 0.10000000009313226,
+            "effect_probability": 0.2959999998565763,
+            "enviro": 18587.414970074315
+        },
+        {
+            "health": 20103.65431799856,
+            "attack": 35.594006000319496,
+            "defense": 1079.9999701953493,
+            "speed": 1.3200000002980232,
+            "stance": 1.0,
+            "effect_resistance": 0.10000000009313226,
+            "effect_probability": 0.3040000000037253,
+            "enviro": 19455.149339998607
+        },
+        {
+            "health": 21033.489522042917,
+            "attack": 36.207696000812575,
+            "defense": 1089.9999602115713,
+            "speed": 1.3200000002980232,
+            "stance": 1.0,
+            "effect_resistance": 0.10000000009313226,
+            "effect_probability": 0.31200000015087426,
+            "enviro": 20354.989860041533
+        },
+        {
+            "health": 21997.728588072583,
+            "attack": 36.821386001538485,
+            "defense": 1099.99995008111,
+            "speed": 1.3200000002980232,
+            "stance": 1.0,
+            "effect_resistance": 0.10000000009313226,
+            "effect_probability": 0.3200000002980232,
+            "enviro": 21288.12444007024
+        },
+        {
+            "health": 22997.64459301578,
+            "attack": 37.43507600063458,
+            "defense": 1109.999940097332,
+            "speed": 1.3200000002980232,
+            "stance": 1.0,
+            "effect_resistance": 0.10000000009313226,
+            "effect_probability": 0.32799999974668026,
+            "enviro": 22255.78509001527
+        },
+        {
+            "health": 24034.55748600606,
+            "attack": 38.048765000421554,
+            "defense": 1119.999930113554,
+            "speed": 1.3200000002980232,
+            "stance": 1.0,
+            "effect_resistance": 0.10000000009313226,
+            "effect_probability": 0.3359999998938292,
+            "enviro": 23259.249180005863
+        },
+        {
+            "health": 25109.836041072384,
+            "attack": 38.662455001147464,
+            "defense": 1129.9999202764593,
+            "speed": 1.3200000002980232,
+            "stance": 1.0,
+            "effect_resistance": 0.10000000009313226,
+            "effect_probability": 0.3440000000409782,
+            "enviro": 24299.84133007005
+        },
+        {
+            "health": 26224.899996090448,
+            "attack": 39.27614500024356,
+            "defense": 1139.999910145998,
+            "speed": 1.3200000002980232,
+            "stance": 1.0,
+            "effect_resistance": 0.10000000009313226,
+            "effect_probability": 0.35200000018812716,
+            "enviro": 25378.93548008753
+        },
+        {
+            "health": 27381.22126209503,
+            "attack": 39.88983500096947,
+            "defense": 1149.99990016222,
+            "speed": 1.3200000002980232,
+            "stance": 1.0,
+            "effect_resistance": 0.10000000009313226,
+            "effect_probability": 0.3600000003352761,
+            "enviro": 26497.956060091965
+        },
+        {
+            "health": 28580.326527039986,
+            "attack": 40.50352500076406,
+            "defense": 1160.000100180041,
+            "speed": 1.3200000002980232,
+            "stance": 1.0,
+            "effect_resistance": 0.10000000009313226,
+            "effect_probability": 0.36799999978393316,
+            "enviro": 27658.380510038696
+        },
+        {
+            "health": 29823.79855802469,
+            "attack": 41.11721399985254,
+            "defense": 1170.000090196263,
+            "speed": 1.3200000002980232,
+            "stance": 1.0,
+            "effect_resistance": 0.10000000009313226,
+            "effect_probability": 0.37599999993108213,
+            "enviro": 28861.740540023893
+        },
+        {
+            "health": 31113.27908412111,
+            "attack": 41.73090400127694,
+            "defense": 1180.0000800658017,
+            "speed": 1.3200000002980232,
+            "stance": 1.0,
+            "effect_resistance": 0.10000000009313226,
+            "effect_probability": 0.3840000000782311,
+            "enviro": 30109.624920117203
+        },
+        {
+            "health": 32450.47047012672,
+            "attack": 42.34459400107153,
+            "defense": 1190.000070228707,
+            "speed": 1.3200000002980232,
+            "stance": 1.0,
+            "effect_resistance": 0.10000000009313226,
+            "effect_probability": 0.39200000022538006,
+            "enviro": 31403.68110012263
+        },
+        {
+            "health": 33837.13785614376,
+            "attack": 42.958284001098946,
+            "defense": 1200.000060244929,
+            "speed": 1.3200000002980232,
+            "stance": 1.0,
+            "effect_resistance": 0.10000000009313226,
+            "effect_probability": 0.40000000037252903,
+            "enviro": 32745.617280139122
+        }
+    ]
+}

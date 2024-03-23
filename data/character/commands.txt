@@ -1,0 +1,56 @@
+DAMAGE
+    $attack_type [model_type1, ...], {amplifier1=value, ...} {reduction1=value, ...}
+
+    attack_type: 
+        SINGLE - 单攻
+        BLAST - 扩散
+        AOE - 群攻
+        BOUNCE - 弹射
+    model_type:
+        HP - 生命倍率
+        ATK - 攻击倍率
+        DEF - 防御倍率
+        BREAK - 击破特攻倍率
+
+ASSIGN
+    $variable_name $value
+ 
+SKILL_POINT
+    $method $amount
+
+    method:
+        ADD - 增加
+        REMOVE - 减少
+        SET - 设置
+        SET_MAXIMUM - 设置上限
+        RESET_MAXIMUM - 重置上限
+
+ENERGY
+    $method $amount $enable_efficiency
+
+    method:
+        ADD - 增加
+        REMOVE - 减少
+        CLEAR - 清空
+        DEFAULT - 设为默认
+        SET - 设置
+
+    enable_efficiency: 可否被能量恢复效率影响
+
+BUFF
+    $method $type $uuid $applicator $target $application_method {ignore_resistances1, ...} ...
+    
+    ignore_resistances:
+        status_resistance - 效果抵抗
+        control_resistance - 控制抵抗
+        freeze_resistance - 冻结抵抗
+        entanglement_resistance - 纠缠抵抗
+        imprisonment_resistance - 禁锢抵抗
+    $application_method = BY_FIXED_CHANCE:
+        $chance
+    $application_method = BY_BASE_CHANCE:
+        $base_chance
+        
+            $ignore_
+            $ignore_control_prevention // 免控
+    

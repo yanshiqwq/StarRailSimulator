@@ -1,22 +1,12 @@
 en-us:
-  server:
-    forceStop: "Sure to force exit?"
-    loadConfigFailed: "Failed to load config file: %s"
-    invalidCmd: "Invalid command: %s."
-    serverStart: "Server running at %s:%s."
-    motd: "[StarRailSimulator] -"
-    mainLoopError: "Caught an error in the main loop: %s"
-  data:
-    loadDatabaseFailed: "Failed to load database: %s"
-    loadedDatabase: "Successfully loaded database: %s"
-    databaseDisconnected: "Database disconnected."
 zh-cn:
   server:
     forceStop: "确定强制退出吗?"
     loadConfigFailed: "无法加载配置文件: %s"
     invalidCmd: "错误的命令: %s."
     serverStart: "服务器已启动: %s:%s."
-    motd: "------------------------------------\n [StarRailSimulator] %s\n------------------------------------"
+    serverStop: "正在关闭服务器..."
+    motd: "----------------------------------------\n   [StarRailSimulator] %s\n----------------------------------------"
     mainLoopError: "在主循环中捕获了一个错误: %s"
   data:
     loadDatabaseFailed: "无法加载数据库: %s"

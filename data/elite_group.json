@@ -1,0 +1,4378 @@
+{
+    "1": {
+        "group": 1,
+        "attack": 1.0,
+        "defense": 1.0,
+        "health": 1.0,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "2": {
+        "group": 2,
+        "attack": 0.8,
+        "defense": 1.0,
+        "health": 1.7,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "3": {
+        "group": 3,
+        "attack": 0.85,
+        "defense": 1.0,
+        "health": 1.3,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "4": {
+        "group": 4,
+        "attack": 0.8,
+        "defense": 1.0,
+        "health": 1.0,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "5": {
+        "group": 5,
+        "attack": 1.0,
+        "defense": 1.0,
+        "health": 1.25,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "6": {
+        "group": 6,
+        "attack": 1.0,
+        "defense": 1.0,
+        "health": 1.4,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "7": {
+        "group": 7,
+        "attack": 0.8,
+        "defense": 1.0,
+        "health": 1.6,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "8": {
+        "group": 8,
+        "attack": 1.0,
+        "defense": 1.0,
+        "health": 1.1,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "9": {
+        "group": 9,
+        "attack": 0.7,
+        "defense": 1.0,
+        "health": 1.7,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "10": {
+        "group": 10,
+        "attack": 1.0,
+        "defense": 1.0,
+        "health": 1.0,
+        "speed": 0.8,
+        "stance": 1.0
+    },
+    "11": {
+        "group": 11,
+        "attack": 1.0,
+        "defense": 1.0,
+        "health": 1.4,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "12": {
+        "group": 12,
+        "attack": 0.32,
+        "defense": 1.0,
+        "health": 0.65,
+        "speed": 0.8,
+        "stance": 1.0
+    },
+    "13": {
+        "group": 13,
+        "attack": 0.65,
+        "defense": 1.0,
+        "health": 1.0,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "14": {
+        "group": 14,
+        "attack": 1.0,
+        "defense": 1.0,
+        "health": 1.1,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "15": {
+        "group": 15,
+        "attack": 2.0,
+        "defense": 1.0,
+        "health": 2.0,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "16": {
+        "group": 16,
+        "attack": 1.1,
+        "defense": 1.0,
+        "health": 1.4,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "17": {
+        "group": 17,
+        "attack": 1.0,
+        "defense": 1.0,
+        "health": 1.2,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "18": {
+        "group": 18,
+        "attack": 2.5,
+        "defense": 1.0,
+        "health": 3.0,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "19": {
+        "group": 19,
+        "attack": 1.0,
+        "defense": 1.0,
+        "health": 1.8,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "20": {
+        "group": 20,
+        "attack": 1.1,
+        "defense": 1.0,
+        "health": 2.0,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "21": {
+        "group": 21,
+        "attack": 0.7,
+        "defense": 1.0,
+        "health": 1.6,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "22": {
+        "group": 22,
+        "attack": 0.85,
+        "defense": 1.0,
+        "health": 2.0,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "23": {
+        "group": 23,
+        "attack": 1.0,
+        "defense": 1.0,
+        "health": 1.0,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "24": {
+        "group": 24,
+        "attack": 1.0,
+        "defense": 1.0,
+        "health": 0.8,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "25": {
+        "group": 25,
+        "attack": 1.0,
+        "defense": 1.0,
+        "health": 1.2,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "26": {
+        "group": 26,
+        "attack": 1.0,
+        "defense": 1.0,
+        "health": 5.0,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "27": {
+        "group": 27,
+        "attack": 1.0,
+        "defense": 1.0,
+        "health": 5.5,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "28": {
+        "group": 28,
+        "attack": 1.0,
+        "defense": 1.0,
+        "health": 6.0,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "30": {
+        "group": 30,
+        "attack": 1.0,
+        "defense": 1.0,
+        "health": 1.2,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "31": {
+        "group": 31,
+        "attack": 1.25,
+        "defense": 1.0,
+        "health": 1.2,
+        "speed": 1.4,
+        "stance": 1.0
+    },
+    "32": {
+        "group": 32,
+        "attack": 1.0,
+        "defense": 1.0,
+        "health": 1.3,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "33": {
+        "group": 33,
+        "attack": 1.0,
+        "defense": 1.0,
+        "health": 1.2,
+        "speed": 1.5,
+        "stance": 1.0
+    },
+    "34": {
+        "group": 34,
+        "attack": 1.0,
+        "defense": 1.0,
+        "health": 0.88,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "35": {
+        "group": 35,
+        "attack": 1.1,
+        "defense": 1.0,
+        "health": 0.8,
+        "speed": 1.2,
+        "stance": 1.0
+    },
+    "36": {
+        "group": 36,
+        "attack": 1.0,
+        "defense": 1.0,
+        "health": 0.8,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "37": {
+        "group": 37,
+        "attack": 1.0,
+        "defense": 1.0,
+        "health": 1.0,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "40": {
+        "group": 40,
+        "attack": 0.55,
+        "defense": 1.0,
+        "health": 1.2,
+        "speed": 1.2,
+        "stance": 1.0
+    },
+    "41": {
+        "group": 41,
+        "attack": 0.5,
+        "defense": 1.0,
+        "health": 1.8,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "42": {
+        "group": 42,
+        "attack": 0.9,
+        "defense": 1.0,
+        "health": 0.9,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "43": {
+        "group": 43,
+        "attack": 0.75,
+        "defense": 1.0,
+        "health": 1.1,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "44": {
+        "group": 44,
+        "attack": 0.65,
+        "defense": 1.0,
+        "health": 0.7,
+        "speed": 1.0,
+        "stance": 1.5
+    },
+    "45": {
+        "group": 45,
+        "attack": 1.05,
+        "defense": 1.0,
+        "health": 1.4,
+        "speed": 0.8,
+        "stance": 1.0
+    },
+    "46": {
+        "group": 46,
+        "attack": 1.0,
+        "defense": 1.0,
+        "health": 1.5,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "47": {
+        "group": 47,
+        "attack": 0.65,
+        "defense": 1.0,
+        "health": 1.0,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "51": {
+        "group": 51,
+        "attack": 0.1,
+        "defense": 1.0,
+        "health": 1.0,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "52": {
+        "group": 52,
+        "attack": 0.2,
+        "defense": 1.0,
+        "health": 1.0,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "53": {
+        "group": 53,
+        "attack": 0.3,
+        "defense": 1.0,
+        "health": 1.0,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "54": {
+        "group": 54,
+        "attack": 0.4,
+        "defense": 1.0,
+        "health": 1.0,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "55": {
+        "group": 55,
+        "attack": 0.5,
+        "defense": 1.0,
+        "health": 1.0,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "56": {
+        "group": 56,
+        "attack": 0.6,
+        "defense": 1.0,
+        "health": 1.0,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "57": {
+        "group": 57,
+        "attack": 0.7,
+        "defense": 1.0,
+        "health": 1.0,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "58": {
+        "group": 58,
+        "attack": 0.8,
+        "defense": 1.0,
+        "health": 1.0,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "59": {
+        "group": 59,
+        "attack": 0.9,
+        "defense": 1.0,
+        "health": 1.0,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "60": {
+        "group": 60,
+        "attack": 1.0,
+        "defense": 1.0,
+        "health": 1.0,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "61": {
+        "group": 61,
+        "attack": 1.1,
+        "defense": 1.0,
+        "health": 1.0,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "62": {
+        "group": 62,
+        "attack": 1.2,
+        "defense": 1.0,
+        "health": 1.0,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "63": {
+        "group": 63,
+        "attack": 1.3,
+        "defense": 1.0,
+        "health": 1.0,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "64": {
+        "group": 64,
+        "attack": 1.4,
+        "defense": 1.0,
+        "health": 1.0,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "65": {
+        "group": 65,
+        "attack": 1.5,
+        "defense": 1.0,
+        "health": 1.0,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "66": {
+        "group": 66,
+        "attack": 1.6,
+        "defense": 1.0,
+        "health": 1.0,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "67": {
+        "group": 67,
+        "attack": 1.7,
+        "defense": 1.0,
+        "health": 1.0,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "68": {
+        "group": 68,
+        "attack": 1.8,
+        "defense": 1.0,
+        "health": 1.0,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "69": {
+        "group": 69,
+        "attack": 1.9,
+        "defense": 1.0,
+        "health": 1.0,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "70": {
+        "group": 70,
+        "attack": 2.0,
+        "defense": 1.0,
+        "health": 1.0,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "71": {
+        "group": 71,
+        "attack": 1.0,
+        "defense": 1.0,
+        "health": 0.1,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "72": {
+        "group": 72,
+        "attack": 1.0,
+        "defense": 1.0,
+        "health": 0.2,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "73": {
+        "group": 73,
+        "attack": 1.0,
+        "defense": 1.0,
+        "health": 0.3,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "74": {
+        "group": 74,
+        "attack": 1.0,
+        "defense": 1.0,
+        "health": 0.4,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "75": {
+        "group": 75,
+        "attack": 1.0,
+        "defense": 1.0,
+        "health": 0.5,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "76": {
+        "group": 76,
+        "attack": 1.0,
+        "defense": 1.0,
+        "health": 0.6,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "77": {
+        "group": 77,
+        "attack": 1.0,
+        "defense": 1.0,
+        "health": 0.7,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "78": {
+        "group": 78,
+        "attack": 1.0,
+        "defense": 1.0,
+        "health": 0.8,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "79": {
+        "group": 79,
+        "attack": 1.0,
+        "defense": 1.0,
+        "health": 0.9,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "80": {
+        "group": 80,
+        "attack": 1.0,
+        "defense": 1.0,
+        "health": 1.0,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "81": {
+        "group": 81,
+        "attack": 1.0,
+        "defense": 1.0,
+        "health": 1.1,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "82": {
+        "group": 82,
+        "attack": 1.0,
+        "defense": 1.0,
+        "health": 1.2,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "83": {
+        "group": 83,
+        "attack": 1.0,
+        "defense": 1.0,
+        "health": 1.3,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "84": {
+        "group": 84,
+        "attack": 1.0,
+        "defense": 1.0,
+        "health": 1.4,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "85": {
+        "group": 85,
+        "attack": 1.0,
+        "defense": 1.0,
+        "health": 1.5,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "86": {
+        "group": 86,
+        "attack": 1.0,
+        "defense": 1.0,
+        "health": 1.6,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "87": {
+        "group": 87,
+        "attack": 1.0,
+        "defense": 1.0,
+        "health": 1.7,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "88": {
+        "group": 88,
+        "attack": 1.0,
+        "defense": 1.0,
+        "health": 1.8,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "89": {
+        "group": 89,
+        "attack": 1.0,
+        "defense": 1.0,
+        "health": 1.9,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "90": {
+        "group": 90,
+        "attack": 1.0,
+        "defense": 1.0,
+        "health": 2.0,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "91": {
+        "group": 91,
+        "attack": 1.0,
+        "defense": 1.0,
+        "health": 2.1,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "92": {
+        "group": 92,
+        "attack": 1.0,
+        "defense": 1.0,
+        "health": 2.2,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "93": {
+        "group": 93,
+        "attack": 1.0,
+        "defense": 1.0,
+        "health": 2.3,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "94": {
+        "group": 94,
+        "attack": 1.0,
+        "defense": 1.0,
+        "health": 2.4,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "95": {
+        "group": 95,
+        "attack": 1.0,
+        "defense": 1.0,
+        "health": 2.5,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "96": {
+        "group": 96,
+        "attack": 1.0,
+        "defense": 1.0,
+        "health": 2.6,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "97": {
+        "group": 97,
+        "attack": 1.0,
+        "defense": 1.0,
+        "health": 2.7,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "98": {
+        "group": 98,
+        "attack": 1.0,
+        "defense": 1.0,
+        "health": 2.8,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "99": {
+        "group": 99,
+        "attack": 1.0,
+        "defense": 1.0,
+        "health": 2.9,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "100": {
+        "group": 100,
+        "attack": 1.0,
+        "defense": 1.0,
+        "health": 3.0,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "101": {
+        "group": 101,
+        "attack": 0.994,
+        "defense": 1.0,
+        "health": 0.96,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "102": {
+        "group": 102,
+        "attack": 1.03,
+        "defense": 1.0,
+        "health": 1.04,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "103": {
+        "group": 103,
+        "attack": 1.201,
+        "defense": 1.0,
+        "health": 1.26,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "104": {
+        "group": 104,
+        "attack": 1.141,
+        "defense": 1.0,
+        "health": 1.28,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "105": {
+        "group": 105,
+        "attack": 1.178,
+        "defense": 1.0,
+        "health": 1.36,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "106": {
+        "group": 106,
+        "attack": 1.366,
+        "defense": 1.0,
+        "health": 1.62,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "107": {
+        "group": 107,
+        "attack": 1.568,
+        "defense": 1.0,
+        "health": 1.6,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "108": {
+        "group": 108,
+        "attack": 0.9,
+        "defense": 1.0,
+        "health": 1.8,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "109": {
+        "group": 109,
+        "attack": 1.0,
+        "defense": 1.0,
+        "health": 1.3,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "120": {
+        "group": 120,
+        "attack": 1.0,
+        "defense": 1.0,
+        "health": 5.0,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "121": {
+        "group": 121,
+        "attack": 1.0,
+        "defense": 1.0,
+        "health": 6.0,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "122": {
+        "group": 122,
+        "attack": 1.0,
+        "defense": 1.0,
+        "health": 7.0,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "123": {
+        "group": 123,
+        "attack": 1.0,
+        "defense": 1.0,
+        "health": 8.0,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "124": {
+        "group": 124,
+        "attack": 1.0,
+        "defense": 1.0,
+        "health": 9.0,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "125": {
+        "group": 125,
+        "attack": 1.0,
+        "defense": 1.0,
+        "health": 10.0,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "131": {
+        "group": 131,
+        "attack": 1.15,
+        "defense": 1.0,
+        "health": 8.0,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "201": {
+        "group": 201,
+        "attack": 1.02,
+        "defense": 1.0,
+        "health": 1.3,
+        "speed": 1.02,
+        "stance": 1.32
+    },
+    "202": {
+        "group": 202,
+        "attack": 1.04,
+        "defense": 1.0,
+        "health": 1.4,
+        "speed": 1.04,
+        "stance": 1.34
+    },
+    "203": {
+        "group": 203,
+        "attack": 1.06,
+        "defense": 1.0,
+        "health": 1.5,
+        "speed": 1.06,
+        "stance": 1.36
+    },
+    "204": {
+        "group": 204,
+        "attack": 1.08,
+        "defense": 1.0,
+        "health": 1.6,
+        "speed": 1.08,
+        "stance": 1.38
+    },
+    "205": {
+        "group": 205,
+        "attack": 1.1,
+        "defense": 1.0,
+        "health": 1.7,
+        "speed": 1.1,
+        "stance": 1.4
+    },
+    "206": {
+        "group": 206,
+        "attack": 1.12,
+        "defense": 1.0,
+        "health": 1.8,
+        "speed": 1.12,
+        "stance": 1.42
+    },
+    "207": {
+        "group": 207,
+        "attack": 1.14,
+        "defense": 1.0,
+        "health": 1.9,
+        "speed": 1.14,
+        "stance": 1.44
+    },
+    "208": {
+        "group": 208,
+        "attack": 1.16,
+        "defense": 1.0,
+        "health": 2.0,
+        "speed": 1.16,
+        "stance": 1.46
+    },
+    "209": {
+        "group": 209,
+        "attack": 1.18,
+        "defense": 1.0,
+        "health": 2.1,
+        "speed": 1.18,
+        "stance": 1.48
+    },
+    "210": {
+        "group": 210,
+        "attack": 1.2,
+        "defense": 1.0,
+        "health": 2.2,
+        "speed": 1.2,
+        "stance": 1.5
+    },
+    "211": {
+        "group": 211,
+        "attack": 0.7,
+        "defense": 1.0,
+        "health": 1.1,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "212": {
+        "group": 212,
+        "attack": 0.7,
+        "defense": 1.0,
+        "health": 1.2,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "213": {
+        "group": 213,
+        "attack": 0.7,
+        "defense": 1.0,
+        "health": 1.3,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "214": {
+        "group": 214,
+        "attack": 0.7,
+        "defense": 1.0,
+        "health": 0.9,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "215": {
+        "group": 215,
+        "attack": 0.7,
+        "defense": 1.0,
+        "health": 0.8,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "216": {
+        "group": 216,
+        "attack": 0.7,
+        "defense": 1.0,
+        "health": 0.7,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "221": {
+        "group": 221,
+        "attack": 1.0,
+        "defense": 1.0,
+        "health": 0.975,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "222": {
+        "group": 222,
+        "attack": 1.0,
+        "defense": 1.0,
+        "health": 0.929,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "223": {
+        "group": 223,
+        "attack": 1.0,
+        "defense": 1.0,
+        "health": 1.1,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "224": {
+        "group": 224,
+        "attack": 1.0,
+        "defense": 1.0,
+        "health": 1.2,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "301": {
+        "group": 301,
+        "attack": 1.0,
+        "defense": 1.0,
+        "health": 1.0,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "302": {
+        "group": 302,
+        "attack": 1.0,
+        "defense": 1.0,
+        "health": 1.1,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "303": {
+        "group": 303,
+        "attack": 1.05,
+        "defense": 1.0,
+        "health": 1.2,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "304": {
+        "group": 304,
+        "attack": 1.0,
+        "defense": 1.0,
+        "health": 1.0,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "305": {
+        "group": 305,
+        "attack": 1.05,
+        "defense": 1.0,
+        "health": 1.2,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "306": {
+        "group": 306,
+        "attack": 1.15,
+        "defense": 1.0,
+        "health": 1.5,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "307": {
+        "group": 307,
+        "attack": 1.0,
+        "defense": 1.0,
+        "health": 1.0,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "308": {
+        "group": 308,
+        "attack": 1.05,
+        "defense": 1.0,
+        "health": 1.25,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "309": {
+        "group": 309,
+        "attack": 1.1,
+        "defense": 1.0,
+        "health": 1.55,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "310": {
+        "group": 310,
+        "attack": 1.0,
+        "defense": 1.0,
+        "health": 1.45,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "311": {
+        "group": 311,
+        "attack": 1.0,
+        "defense": 1.0,
+        "health": 1.36,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "312": {
+        "group": 312,
+        "attack": 1.0,
+        "defense": 1.0,
+        "health": 3.64,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "313": {
+        "group": 313,
+        "attack": 0.7,
+        "defense": 1.0,
+        "health": 0.946,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "314": {
+        "group": 314,
+        "attack": 1.0,
+        "defense": 1.0,
+        "health": 4.0,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "315": {
+        "group": 315,
+        "attack": 0.9,
+        "defense": 1.0,
+        "health": 1.8,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "316": {
+        "group": 316,
+        "attack": 0.1,
+        "defense": 1.0,
+        "health": 2.8,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "317": {
+        "group": 317,
+        "attack": 1.0,
+        "defense": 1.0,
+        "health": 2.8,
+        "speed": 1.0,
+        "stance": 5.0
+    },
+    "321": {
+        "group": 321,
+        "attack": 1.0,
+        "defense": 1.0,
+        "health": 1.0,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "322": {
+        "group": 322,
+        "attack": 1.1,
+        "defense": 1.0,
+        "health": 1.2,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "323": {
+        "group": 323,
+        "attack": 0.8,
+        "defense": 1.0,
+        "health": 1.15,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "324": {
+        "group": 324,
+        "attack": 2.0,
+        "defense": 1.0,
+        "health": 2.0,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "325": {
+        "group": 325,
+        "attack": 1.5,
+        "defense": 1.0,
+        "health": 3.0,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "326": {
+        "group": 326,
+        "attack": 1.0,
+        "defense": 1.0,
+        "health": 2.0,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "327": {
+        "group": 327,
+        "attack": 1.5,
+        "defense": 1.0,
+        "health": 1.2,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "328": {
+        "group": 328,
+        "attack": 1.0,
+        "defense": 1.0,
+        "health": 1.0,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "329": {
+        "group": 329,
+        "attack": 1.7,
+        "defense": 1.0,
+        "health": 1.2,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "330": {
+        "group": 330,
+        "attack": 1.0,
+        "defense": 1.0,
+        "health": 1.0,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "331": {
+        "group": 331,
+        "attack": 1.1,
+        "defense": 1.0,
+        "health": 0.9,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "332": {
+        "group": 332,
+        "attack": 1.0,
+        "defense": 1.0,
+        "health": 1.0,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "400": {
+        "group": 400,
+        "attack": 0.909,
+        "defense": 1.0,
+        "health": 0.664,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "401": {
+        "group": 401,
+        "attack": 0.952,
+        "defense": 1.0,
+        "health": 0.832,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "402": {
+        "group": 402,
+        "attack": 1.0,
+        "defense": 1.0,
+        "health": 1.0,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "410": {
+        "group": 410,
+        "attack": 1.136,
+        "defense": 1.0,
+        "health": 1.504,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "411": {
+        "group": 411,
+        "attack": 1.19,
+        "defense": 1.0,
+        "health": 1.773,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "412": {
+        "group": 412,
+        "attack": 1.25,
+        "defense": 1.0,
+        "health": 2.042,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "413": {
+        "group": 413,
+        "attack": 1.333,
+        "defense": 1.0,
+        "health": 2.411,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "414": {
+        "group": 414,
+        "attack": 1.667,
+        "defense": 1.0,
+        "health": 2.747,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "415": {
+        "group": 415,
+        "attack": 1.19,
+        "defense": 1.0,
+        "health": 2.344,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "430": {
+        "group": 430,
+        "attack": 1.2,
+        "defense": 1.0,
+        "health": 4.0,
+        "speed": 1.2,
+        "stance": 1.0
+    },
+    "431": {
+        "group": 431,
+        "attack": 1.2,
+        "defense": 1.0,
+        "health": 4.0,
+        "speed": 1.1,
+        "stance": 1.0
+    },
+    "432": {
+        "group": 432,
+        "attack": 0.8,
+        "defense": 1.0,
+        "health": 3.8,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "433": {
+        "group": 433,
+        "attack": 0.8,
+        "defense": 1.0,
+        "health": 4.56,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "434": {
+        "group": 434,
+        "attack": 1.0,
+        "defense": 1.0,
+        "health": 4.0,
+        "speed": 1.05,
+        "stance": 1.0
+    },
+    "435": {
+        "group": 435,
+        "attack": 1.0,
+        "defense": 1.0,
+        "health": 4.8,
+        "speed": 1.1,
+        "stance": 1.0
+    },
+    "436": {
+        "group": 436,
+        "attack": 0.82,
+        "defense": 1.0,
+        "health": 3.8,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "437": {
+        "group": 437,
+        "attack": 0.87,
+        "defense": 1.0,
+        "health": 4.56,
+        "speed": 1.05,
+        "stance": 1.0
+    },
+    "438": {
+        "group": 438,
+        "attack": 1.0,
+        "defense": 1.0,
+        "health": 4.0,
+        "speed": 1.05,
+        "stance": 1.0
+    },
+    "439": {
+        "group": 439,
+        "attack": 1.0,
+        "defense": 1.0,
+        "health": 4.8,
+        "speed": 1.1,
+        "stance": 1.0
+    },
+    "440": {
+        "group": 440,
+        "attack": 0.84,
+        "defense": 1.0,
+        "health": 1.6,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "441": {
+        "group": 441,
+        "attack": 1.35,
+        "defense": 1.0,
+        "health": 4.2,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "442": {
+        "group": 442,
+        "attack": 0.88,
+        "defense": 1.0,
+        "health": 1.8,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "443": {
+        "group": 443,
+        "attack": 0.88,
+        "defense": 1.0,
+        "health": 1.6,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "444": {
+        "group": 444,
+        "attack": 0.8,
+        "defense": 1.0,
+        "health": 1.2,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "450": {
+        "group": 450,
+        "attack": 1.2,
+        "defense": 1.0,
+        "health": 2.5,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "451": {
+        "group": 451,
+        "attack": 1.098,
+        "defense": 1.0,
+        "health": 2.916,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "452": {
+        "group": 452,
+        "attack": 1.089,
+        "defense": 1.0,
+        "health": 2.403,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "453": {
+        "group": 453,
+        "attack": 1.143,
+        "defense": 1.0,
+        "health": 2.853,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "454": {
+        "group": 454,
+        "attack": 1.197,
+        "defense": 1.0,
+        "health": 2.889,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "455": {
+        "group": 455,
+        "attack": 1.332,
+        "defense": 1.0,
+        "health": 3.366,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "456": {
+        "group": 456,
+        "attack": 1.305,
+        "defense": 1.0,
+        "health": 3.411,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "457": {
+        "group": 457,
+        "attack": 1.242,
+        "defense": 1.0,
+        "health": 3.024,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "470": {
+        "group": 470,
+        "attack": 0.9,
+        "defense": 1.0,
+        "health": 1.0,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "471": {
+        "group": 471,
+        "attack": 0.5,
+        "defense": 1.0,
+        "health": 1.2,
+        "speed": 1.3,
+        "stance": 1.5
+    },
+    "472": {
+        "group": 472,
+        "attack": 1.0,
+        "defense": 1.0,
+        "health": 1.8,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "473": {
+        "group": 473,
+        "attack": 1.0,
+        "defense": 1.0,
+        "health": 2.0,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "474": {
+        "group": 474,
+        "attack": 1.0,
+        "defense": 1.0,
+        "health": 1.5,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "475": {
+        "group": 475,
+        "attack": 1.0,
+        "defense": 1.0,
+        "health": 1.6,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "476": {
+        "group": 476,
+        "attack": 0.57,
+        "defense": 1.0,
+        "health": 1.1,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "477": {
+        "group": 477,
+        "attack": 0.57,
+        "defense": 1.0,
+        "health": 1.8,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "478": {
+        "group": 478,
+        "attack": 0.8,
+        "defense": 1.0,
+        "health": 1.5,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "479": {
+        "group": 479,
+        "attack": 1.0,
+        "defense": 1.0,
+        "health": 1.1,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "480": {
+        "group": 480,
+        "attack": 1.0,
+        "defense": 1.0,
+        "health": 1.1,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "481": {
+        "group": 481,
+        "attack": 1.3,
+        "defense": 1.0,
+        "health": 1.8,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "482": {
+        "group": 482,
+        "attack": 1.0,
+        "defense": 1.0,
+        "health": 1.4,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "483": {
+        "group": 483,
+        "attack": 0.9,
+        "defense": 1.0,
+        "health": 1.2,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "484": {
+        "group": 484,
+        "attack": 1.0,
+        "defense": 1.0,
+        "health": 1.8,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "485": {
+        "group": 485,
+        "attack": 1.0,
+        "defense": 1.0,
+        "health": 1.8,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "486": {
+        "group": 486,
+        "attack": 1.2,
+        "defense": 1.0,
+        "health": 1.8,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "487": {
+        "group": 487,
+        "attack": 1.2,
+        "defense": 1.0,
+        "health": 1.4,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "488": {
+        "group": 488,
+        "attack": 1.2,
+        "defense": 1.0,
+        "health": 1.5,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "489": {
+        "group": 489,
+        "attack": 1.0,
+        "defense": 1.0,
+        "health": 1.5,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "490": {
+        "group": 490,
+        "attack": 0.9,
+        "defense": 1.0,
+        "health": 1.4,
+        "speed": 1.0,
+        "stance": 0.6
+    },
+    "501": {
+        "group": 501,
+        "attack": 1.2,
+        "defense": 1.0,
+        "health": 0.7,
+        "speed": 1.0,
+        "stance": 1.5
+    },
+    "502": {
+        "group": 502,
+        "attack": 2.3,
+        "defense": 1.0,
+        "health": 0.8,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "503": {
+        "group": 503,
+        "attack": 1.2,
+        "defense": 1.0,
+        "health": 0.67,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "504": {
+        "group": 504,
+        "attack": 1.0,
+        "defense": 1.0,
+        "health": 0.6,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "505": {
+        "group": 505,
+        "attack": 0.8,
+        "defense": 1.0,
+        "health": 0.95,
+        "speed": 2.0,
+        "stance": 1.0
+    },
+    "601": {
+        "group": 601,
+        "attack": 0.7,
+        "defense": 1.0,
+        "health": 1.2,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "602": {
+        "group": 602,
+        "attack": 0.8,
+        "defense": 1.0,
+        "health": 2.0,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "603": {
+        "group": 603,
+        "attack": 0.8,
+        "defense": 1.0,
+        "health": 2.0,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "604": {
+        "group": 604,
+        "attack": 0.65,
+        "defense": 1.0,
+        "health": 1.3,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "605": {
+        "group": 605,
+        "attack": 0.7,
+        "defense": 1.0,
+        "health": 2.1,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "606": {
+        "group": 606,
+        "attack": 0.8,
+        "defense": 1.0,
+        "health": 2.1,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "607": {
+        "group": 607,
+        "attack": 0.8,
+        "defense": 1.0,
+        "health": 2.0,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "608": {
+        "group": 608,
+        "attack": 0.75,
+        "defense": 1.0,
+        "health": 2.0,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "609": {
+        "group": 609,
+        "attack": 0.8,
+        "defense": 1.0,
+        "health": 3.0,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "1600": {
+        "group": 1600,
+        "attack": 1.0,
+        "defense": 1.0,
+        "health": 1.0,
+        "speed": 0.8,
+        "stance": 1.0
+    },
+    "1601": {
+        "group": 1601,
+        "attack": 1.0,
+        "defense": 1.0,
+        "health": 1.0,
+        "speed": 0.8,
+        "stance": 1.0
+    },
+    "1602": {
+        "group": 1602,
+        "attack": 1.0,
+        "defense": 1.0,
+        "health": 1.0,
+        "speed": 0.85,
+        "stance": 1.0
+    },
+    "1603": {
+        "group": 1603,
+        "attack": 1.0,
+        "defense": 1.0,
+        "health": 1.0,
+        "speed": 0.9,
+        "stance": 1.0
+    },
+    "1604": {
+        "group": 1604,
+        "attack": 1.0,
+        "defense": 1.0,
+        "health": 1.0,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "1605": {
+        "group": 1605,
+        "attack": 1.0,
+        "defense": 1.0,
+        "health": 1.0,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "1606": {
+        "group": 1606,
+        "attack": 1.0,
+        "defense": 1.0,
+        "health": 1.0,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "2000": {
+        "group": 2000,
+        "attack": 0.6,
+        "defense": 1.0,
+        "health": 0.75,
+        "speed": 0.9,
+        "stance": 1.0
+    },
+    "2001": {
+        "group": 2001,
+        "attack": 0.6,
+        "defense": 1.0,
+        "health": 0.75,
+        "speed": 0.9,
+        "stance": 1.0
+    },
+    "2002": {
+        "group": 2002,
+        "attack": 0.66,
+        "defense": 1.0,
+        "health": 0.8,
+        "speed": 0.92,
+        "stance": 1.0
+    },
+    "2003": {
+        "group": 2003,
+        "attack": 0.74,
+        "defense": 1.0,
+        "health": 0.85,
+        "speed": 0.94,
+        "stance": 1.0
+    },
+    "2004": {
+        "group": 2004,
+        "attack": 0.78,
+        "defense": 1.0,
+        "health": 0.85,
+        "speed": 0.96,
+        "stance": 1.0
+    },
+    "2005": {
+        "group": 2005,
+        "attack": 0.84,
+        "defense": 1.0,
+        "health": 0.9,
+        "speed": 0.98,
+        "stance": 1.0
+    },
+    "2006": {
+        "group": 2006,
+        "attack": 1.0,
+        "defense": 1.0,
+        "health": 1.0,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "2010": {
+        "group": 2010,
+        "attack": 0.8,
+        "defense": 1.0,
+        "health": 0.9,
+        "speed": 0.9,
+        "stance": 1.0
+    },
+    "2011": {
+        "group": 2011,
+        "attack": 0.8,
+        "defense": 1.0,
+        "health": 0.9,
+        "speed": 0.9,
+        "stance": 1.0
+    },
+    "2012": {
+        "group": 2012,
+        "attack": 0.84,
+        "defense": 1.0,
+        "health": 0.92,
+        "speed": 0.92,
+        "stance": 1.0
+    },
+    "2013": {
+        "group": 2013,
+        "attack": 0.88,
+        "defense": 1.0,
+        "health": 0.95,
+        "speed": 0.94,
+        "stance": 1.0
+    },
+    "2014": {
+        "group": 2014,
+        "attack": 0.9,
+        "defense": 1.0,
+        "health": 0.95,
+        "speed": 0.96,
+        "stance": 1.0
+    },
+    "2015": {
+        "group": 2015,
+        "attack": 0.94,
+        "defense": 1.0,
+        "health": 0.97,
+        "speed": 0.98,
+        "stance": 1.0
+    },
+    "2016": {
+        "group": 2016,
+        "attack": 1.0,
+        "defense": 1.0,
+        "health": 1.0,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "2100": {
+        "group": 2100,
+        "attack": 0.6,
+        "defense": 1.0,
+        "health": 0.8,
+        "speed": 0.9,
+        "stance": 1.0
+    },
+    "2101": {
+        "group": 2101,
+        "attack": 0.6,
+        "defense": 1.0,
+        "health": 0.8,
+        "speed": 0.9,
+        "stance": 1.0
+    },
+    "2102": {
+        "group": 2102,
+        "attack": 0.68,
+        "defense": 1.0,
+        "health": 0.85,
+        "speed": 0.92,
+        "stance": 1.0
+    },
+    "2103": {
+        "group": 2103,
+        "attack": 0.76,
+        "defense": 1.0,
+        "health": 0.9,
+        "speed": 0.94,
+        "stance": 1.0
+    },
+    "2104": {
+        "group": 2104,
+        "attack": 0.8,
+        "defense": 1.0,
+        "health": 0.9,
+        "speed": 0.96,
+        "stance": 1.0
+    },
+    "2105": {
+        "group": 2105,
+        "attack": 0.88,
+        "defense": 1.0,
+        "health": 0.95,
+        "speed": 0.98,
+        "stance": 1.0
+    },
+    "2106": {
+        "group": 2106,
+        "attack": 1.0,
+        "defense": 1.0,
+        "health": 1.0,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "30001": {
+        "group": 30001,
+        "attack": 0.45,
+        "defense": 1.0,
+        "health": 1.4,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "30002": {
+        "group": 30002,
+        "attack": 0.45,
+        "defense": 1.0,
+        "health": 1.52,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "30003": {
+        "group": 30003,
+        "attack": 0.57,
+        "defense": 1.0,
+        "health": 1.91,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "30004": {
+        "group": 30004,
+        "attack": 1.14,
+        "defense": 1.0,
+        "health": 2.43,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "30005": {
+        "group": 30005,
+        "attack": 1.22,
+        "defense": 1.0,
+        "health": 2.61,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "30006": {
+        "group": 30006,
+        "attack": 1.31,
+        "defense": 1.0,
+        "health": 2.81,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "30007": {
+        "group": 30007,
+        "attack": 1.41,
+        "defense": 1.0,
+        "health": 3.48,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "30008": {
+        "group": 30008,
+        "attack": 1.34,
+        "defense": 1.0,
+        "health": 3.01,
+        "speed": 1.05,
+        "stance": 1.0
+    },
+    "30009": {
+        "group": 30009,
+        "attack": 1.34,
+        "defense": 1.0,
+        "health": 3.48,
+        "speed": 1.05,
+        "stance": 1.0
+    },
+    "30010": {
+        "group": 30010,
+        "attack": 1.34,
+        "defense": 1.0,
+        "health": 3.72,
+        "speed": 1.05,
+        "stance": 1.0
+    },
+    "30011": {
+        "group": 30011,
+        "attack": 1.37,
+        "defense": 1.0,
+        "health": 3.98,
+        "speed": 1.1,
+        "stance": 1.0
+    },
+    "30012": {
+        "group": 30012,
+        "attack": 1.56,
+        "defense": 1.0,
+        "health": 4.55,
+        "speed": 1.1,
+        "stance": 1.0
+    },
+    "30061": {
+        "group": 30061,
+        "attack": 1.31,
+        "defense": 1.0,
+        "health": 2.16,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "30062": {
+        "group": 30062,
+        "attack": 1.41,
+        "defense": 1.0,
+        "health": 2.86,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "30063": {
+        "group": 30063,
+        "attack": 1.5,
+        "defense": 1.0,
+        "health": 3.5,
+        "speed": 1.15,
+        "stance": 1.0
+    },
+    "30041": {
+        "group": 30041,
+        "attack": 0.6,
+        "defense": 1.0,
+        "health": 1.47,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "30042": {
+        "group": 30042,
+        "attack": 1.35,
+        "defense": 1.0,
+        "health": 2.86,
+        "speed": 1.1,
+        "stance": 1.0
+    },
+    "30043": {
+        "group": 30043,
+        "attack": 1.84,
+        "defense": 1.0,
+        "health": 4.79,
+        "speed": 1.22,
+        "stance": 1.0
+    },
+    "30044": {
+        "group": 30044,
+        "attack": 1.84,
+        "defense": 1.0,
+        "health": 4.79,
+        "speed": 1.22,
+        "stance": 1.0
+    },
+    "30080": {
+        "group": 30080,
+        "attack": 2.0,
+        "defense": 1.0,
+        "health": 6.01,
+        "speed": 1.26,
+        "stance": 1.0
+    },
+    "30090": {
+        "group": 30090,
+        "attack": 2.0,
+        "defense": 1.0,
+        "health": 8.0,
+        "speed": 1.2,
+        "stance": 1.0
+    },
+    "30141": {
+        "group": 30141,
+        "attack": 0.5,
+        "defense": 1.0,
+        "health": 1.36,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "30142": {
+        "group": 30142,
+        "attack": 1.35,
+        "defense": 1.0,
+        "health": 2.86,
+        "speed": 1.1,
+        "stance": 1.0
+    },
+    "30145": {
+        "group": 30145,
+        "attack": 1.35,
+        "defense": 1.0,
+        "health": 2.58,
+        "speed": 1.1,
+        "stance": 1.0
+    },
+    "30143": {
+        "group": 30143,
+        "attack": 1.84,
+        "defense": 1.0,
+        "health": 4.79,
+        "speed": 1.22,
+        "stance": 1.0
+    },
+    "30144": {
+        "group": 30144,
+        "attack": 1.84,
+        "defense": 1.0,
+        "health": 4.79,
+        "speed": 1.22,
+        "stance": 1.0
+    },
+    "30180": {
+        "group": 30180,
+        "attack": 2.02,
+        "defense": 1.0,
+        "health": 6.76,
+        "speed": 1.4,
+        "stance": 1.0
+    },
+    "30190": {
+        "group": 30190,
+        "attack": 1.5,
+        "defense": 1.0,
+        "health": 7.6,
+        "speed": 1.1,
+        "stance": 1.0
+    },
+    "31001": {
+        "group": 31001,
+        "attack": 0.75,
+        "defense": 1.0,
+        "health": 1.2,
+        "speed": 1.44,
+        "stance": 1.0
+    },
+    "31002": {
+        "group": 31002,
+        "attack": 0.75,
+        "defense": 1.0,
+        "health": 1.35,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "31003": {
+        "group": 31003,
+        "attack": 0.5,
+        "defense": 1.0,
+        "health": 1.5,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "31004": {
+        "group": 31004,
+        "attack": 0.75,
+        "defense": 1.0,
+        "health": 1.85,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "32001": {
+        "group": 32001,
+        "attack": 0.75,
+        "defense": 1.0,
+        "health": 1.2,
+        "speed": 1.44,
+        "stance": 1.0
+    },
+    "32002": {
+        "group": 32002,
+        "attack": 0.5,
+        "defense": 1.0,
+        "health": 1.35,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "32003": {
+        "group": 32003,
+        "attack": 0.5,
+        "defense": 1.0,
+        "health": 1.5,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "32004": {
+        "group": 32004,
+        "attack": 0.5,
+        "defense": 1.0,
+        "health": 1.65,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "32005": {
+        "group": 32005,
+        "attack": 0.5,
+        "defense": 1.0,
+        "health": 1.8,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "32006": {
+        "group": 32006,
+        "attack": 0.6,
+        "defense": 1.0,
+        "health": 2.1,
+        "speed": 0.83,
+        "stance": 1.0
+    },
+    "32101": {
+        "group": 32101,
+        "attack": 0.86,
+        "defense": 1.0,
+        "health": 1.02,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "32102": {
+        "group": 32102,
+        "attack": 1.32,
+        "defense": 1.0,
+        "health": 1.34,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "32103": {
+        "group": 32103,
+        "attack": 1.34,
+        "defense": 1.0,
+        "health": 1.82,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "32104": {
+        "group": 32104,
+        "attack": 1.29,
+        "defense": 1.0,
+        "health": 1.82,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "32105": {
+        "group": 32105,
+        "attack": 1.15,
+        "defense": 1.0,
+        "health": 1.79,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "32201": {
+        "group": 32201,
+        "attack": 0.87,
+        "defense": 1.0,
+        "health": 1.03,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "32202": {
+        "group": 32202,
+        "attack": 1.45,
+        "defense": 1.0,
+        "health": 1.58,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "32203": {
+        "group": 32203,
+        "attack": 1.48,
+        "defense": 1.0,
+        "health": 1.86,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "32204": {
+        "group": 32204,
+        "attack": 1.48,
+        "defense": 1.0,
+        "health": 2.07,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "32205": {
+        "group": 32205,
+        "attack": 1.48,
+        "defense": 1.0,
+        "health": 2.17,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "32206": {
+        "group": 32206,
+        "attack": 1.44,
+        "defense": 1.0,
+        "health": 2.51,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "32207": {
+        "group": 32207,
+        "attack": 1.46,
+        "defense": 1.0,
+        "health": 2.62,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "32208": {
+        "group": 32208,
+        "attack": 1.47,
+        "defense": 1.0,
+        "health": 2.61,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "32209": {
+        "group": 32209,
+        "attack": 1.1,
+        "defense": 1.0,
+        "health": 2.58,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "32301": {
+        "group": 32301,
+        "attack": 0.85,
+        "defense": 1.0,
+        "health": 1.14,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "32302": {
+        "group": 32302,
+        "attack": 1.41,
+        "defense": 1.0,
+        "health": 1.68,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "32303": {
+        "group": 32303,
+        "attack": 1.41,
+        "defense": 1.0,
+        "health": 1.61,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "32304": {
+        "group": 32304,
+        "attack": 1.3,
+        "defense": 1.0,
+        "health": 1.73,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "32305": {
+        "group": 32305,
+        "attack": 1.6,
+        "defense": 1.0,
+        "health": 2.67,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "32306": {
+        "group": 32306,
+        "attack": 1.7,
+        "defense": 1.0,
+        "health": 2.72,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "32307": {
+        "group": 32307,
+        "attack": 1.57,
+        "defense": 1.0,
+        "health": 3.04,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "32308": {
+        "group": 32308,
+        "attack": 1.54,
+        "defense": 1.0,
+        "health": 3.41,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "32309": {
+        "group": 32309,
+        "attack": 1.56,
+        "defense": 1.0,
+        "health": 3.33,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "32310": {
+        "group": 32310,
+        "attack": 1.22,
+        "defense": 1.0,
+        "health": 3.24,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "32401": {
+        "group": 32401,
+        "attack": 0.82,
+        "defense": 1.0,
+        "health": 0.98,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "32402": {
+        "group": 32402,
+        "attack": 1.38,
+        "defense": 1.0,
+        "health": 1.51,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "32403": {
+        "group": 32403,
+        "attack": 1.39,
+        "defense": 1.0,
+        "health": 1.5,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "32404": {
+        "group": 32404,
+        "attack": 1.29,
+        "defense": 1.0,
+        "health": 1.67,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "32405": {
+        "group": 32405,
+        "attack": 1.6,
+        "defense": 1.0,
+        "health": 2.63,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "32406": {
+        "group": 32406,
+        "attack": 1.69,
+        "defense": 1.0,
+        "health": 2.55,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "32407": {
+        "group": 32407,
+        "attack": 1.56,
+        "defense": 1.0,
+        "health": 2.75,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "32408": {
+        "group": 32408,
+        "attack": 1.52,
+        "defense": 1.0,
+        "health": 2.97,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "32409": {
+        "group": 32409,
+        "attack": 1.54,
+        "defense": 1.0,
+        "health": 2.82,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "32410": {
+        "group": 32410,
+        "attack": 1.21,
+        "defense": 1.0,
+        "health": 2.67,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "32501": {
+        "group": 32501,
+        "attack": 0.84,
+        "defense": 1.0,
+        "health": 1.18,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "32502": {
+        "group": 32502,
+        "attack": 1.4,
+        "defense": 1.0,
+        "health": 1.63,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "32503": {
+        "group": 32503,
+        "attack": 1.4,
+        "defense": 1.0,
+        "health": 1.56,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "32504": {
+        "group": 32504,
+        "attack": 1.29,
+        "defense": 1.0,
+        "health": 1.67,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "32505": {
+        "group": 32505,
+        "attack": 1.57,
+        "defense": 1.0,
+        "health": 2.66,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "32506": {
+        "group": 32506,
+        "attack": 1.67,
+        "defense": 1.0,
+        "health": 2.69,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "32507": {
+        "group": 32507,
+        "attack": 1.54,
+        "defense": 1.0,
+        "health": 2.87,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "32508": {
+        "group": 32508,
+        "attack": 1.51,
+        "defense": 1.0,
+        "health": 3.2,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "32509": {
+        "group": 32509,
+        "attack": 1.53,
+        "defense": 1.0,
+        "health": 3.27,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "32510": {
+        "group": 32510,
+        "attack": 1.27,
+        "defense": 1.0,
+        "health": 3.17,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "32601": {
+        "group": 32601,
+        "attack": 0.85,
+        "defense": 1.0,
+        "health": 1.06,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "32602": {
+        "group": 32602,
+        "attack": 1.4,
+        "defense": 1.0,
+        "health": 1.51,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "32603": {
+        "group": 32603,
+        "attack": 1.41,
+        "defense": 1.0,
+        "health": 1.5,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "32604": {
+        "group": 32604,
+        "attack": 1.31,
+        "defense": 1.0,
+        "health": 1.64,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "32605": {
+        "group": 32605,
+        "attack": 1.59,
+        "defense": 1.0,
+        "health": 2.67,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "32606": {
+        "group": 32606,
+        "attack": 1.71,
+        "defense": 1.0,
+        "health": 2.71,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "32607": {
+        "group": 32607,
+        "attack": 1.59,
+        "defense": 1.0,
+        "health": 2.89,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "32608": {
+        "group": 32608,
+        "attack": 1.57,
+        "defense": 1.0,
+        "health": 3.23,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "32609": {
+        "group": 32609,
+        "attack": 1.6,
+        "defense": 1.0,
+        "health": 3.31,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "32610": {
+        "group": 32610,
+        "attack": 1.33,
+        "defense": 1.0,
+        "health": 3.21,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "32701": {
+        "group": 32701,
+        "attack": 0.82,
+        "defense": 1.0,
+        "health": 1.03,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "32702": {
+        "group": 32702,
+        "attack": 1.36,
+        "defense": 1.0,
+        "health": 1.45,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "32703": {
+        "group": 32703,
+        "attack": 1.38,
+        "defense": 1.0,
+        "health": 1.45,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "32704": {
+        "group": 32704,
+        "attack": 1.29,
+        "defense": 1.0,
+        "health": 1.59,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "32705": {
+        "group": 32705,
+        "attack": 1.55,
+        "defense": 1.0,
+        "health": 2.54,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "32706": {
+        "group": 32706,
+        "attack": 1.67,
+        "defense": 1.0,
+        "health": 2.64,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "32707": {
+        "group": 32707,
+        "attack": 1.56,
+        "defense": 1.0,
+        "health": 2.87,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "32708": {
+        "group": 32708,
+        "attack": 1.53,
+        "defense": 1.0,
+        "health": 3.27,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "32709": {
+        "group": 32709,
+        "attack": 1.56,
+        "defense": 1.0,
+        "health": 3.36,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "32710": {
+        "group": 32710,
+        "attack": 1.3,
+        "defense": 1.0,
+        "health": 3.29,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "32801": {
+        "group": 32801,
+        "attack": 0.81,
+        "defense": 1.0,
+        "health": 0.98,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "32802": {
+        "group": 32802,
+        "attack": 1.34,
+        "defense": 1.0,
+        "health": 1.39,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "32803": {
+        "group": 32803,
+        "attack": 1.37,
+        "defense": 1.0,
+        "health": 1.4,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "32804": {
+        "group": 32804,
+        "attack": 1.27,
+        "defense": 1.0,
+        "health": 1.54,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "32805": {
+        "group": 32805,
+        "attack": 1.53,
+        "defense": 1.0,
+        "health": 2.46,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "32806": {
+        "group": 32806,
+        "attack": 1.63,
+        "defense": 1.0,
+        "health": 2.57,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "32807": {
+        "group": 32807,
+        "attack": 1.53,
+        "defense": 1.0,
+        "health": 2.82,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "32808": {
+        "group": 32808,
+        "attack": 1.5,
+        "defense": 1.0,
+        "health": 3.22,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "32809": {
+        "group": 32809,
+        "attack": 1.53,
+        "defense": 1.0,
+        "health": 3.38,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "32810": {
+        "group": 32810,
+        "attack": 1.28,
+        "defense": 1.0,
+        "health": 3.3,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "32901": {
+        "group": 32901,
+        "attack": 1.05,
+        "defense": 1.0,
+        "health": 1.2,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "32902": {
+        "group": 32902,
+        "attack": 1.46,
+        "defense": 1.0,
+        "health": 1.48,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "32903": {
+        "group": 32903,
+        "attack": 1.54,
+        "defense": 1.0,
+        "health": 1.53,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "32904": {
+        "group": 32904,
+        "attack": 1.47,
+        "defense": 1.0,
+        "health": 1.79,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "32905": {
+        "group": 32905,
+        "attack": 1.61,
+        "defense": 1.0,
+        "health": 2.35,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "32906": {
+        "group": 32906,
+        "attack": 1.7,
+        "defense": 1.0,
+        "health": 2.53,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "32907": {
+        "group": 32907,
+        "attack": 1.67,
+        "defense": 1.0,
+        "health": 2.94,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "32908": {
+        "group": 32908,
+        "attack": 1.55,
+        "defense": 1.0,
+        "health": 3.05,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "32909": {
+        "group": 32909,
+        "attack": 1.58,
+        "defense": 1.0,
+        "health": 3.15,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "32910": {
+        "group": 32910,
+        "attack": 1.38,
+        "defense": 1.0,
+        "health": 3.36,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "32711": {
+        "group": 32711,
+        "attack": 1.01,
+        "defense": 1.0,
+        "health": 1.23,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "32712": {
+        "group": 32712,
+        "attack": 1.55,
+        "defense": 1.0,
+        "health": 1.69,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "32713": {
+        "group": 32713,
+        "attack": 1.56,
+        "defense": 1.0,
+        "health": 1.69,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "32714": {
+        "group": 32714,
+        "attack": 1.47,
+        "defense": 1.0,
+        "health": 1.83,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "32715": {
+        "group": 32715,
+        "attack": 1.74,
+        "defense": 1.0,
+        "health": 2.89,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "32716": {
+        "group": 32716,
+        "attack": 1.85,
+        "defense": 1.0,
+        "health": 3.0,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "32717": {
+        "group": 32717,
+        "attack": 1.74,
+        "defense": 1.0,
+        "health": 3.27,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "32718": {
+        "group": 32718,
+        "attack": 1.72,
+        "defense": 1.0,
+        "health": 3.7,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "32719": {
+        "group": 32719,
+        "attack": 1.75,
+        "defense": 1.0,
+        "health": 3.81,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "32720": {
+        "group": 32720,
+        "attack": 1.48,
+        "defense": 1.0,
+        "health": 3.74,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "32811": {
+        "group": 32811,
+        "attack": 0.98,
+        "defense": 1.0,
+        "health": 1.21,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "32812": {
+        "group": 32812,
+        "attack": 1.51,
+        "defense": 1.0,
+        "health": 1.65,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "32813": {
+        "group": 32813,
+        "attack": 1.54,
+        "defense": 1.0,
+        "health": 1.67,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "32814": {
+        "group": 32814,
+        "attack": 1.44,
+        "defense": 1.0,
+        "health": 1.83,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "32815": {
+        "group": 32815,
+        "attack": 1.7,
+        "defense": 1.0,
+        "health": 2.83,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "32816": {
+        "group": 32816,
+        "attack": 1.8,
+        "defense": 1.0,
+        "health": 2.97,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "32817": {
+        "group": 32817,
+        "attack": 1.69,
+        "defense": 1.0,
+        "health": 3.25,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "32818": {
+        "group": 32818,
+        "attack": 1.67,
+        "defense": 1.0,
+        "health": 3.69,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "32819": {
+        "group": 32819,
+        "attack": 1.7,
+        "defense": 1.0,
+        "health": 3.86,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "32820": {
+        "group": 32820,
+        "attack": 1.45,
+        "defense": 1.0,
+        "health": 3.79,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "33001": {
+        "group": 33001,
+        "attack": 1.1,
+        "defense": 1.0,
+        "health": 0.75,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "33002": {
+        "group": 33002,
+        "attack": 1.0,
+        "defense": 1.0,
+        "health": 0.75,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "33003": {
+        "group": 33003,
+        "attack": 1.3,
+        "defense": 1.0,
+        "health": 0.75,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "33004": {
+        "group": 33004,
+        "attack": 1.5,
+        "defense": 1.0,
+        "health": 3.0,
+        "speed": 1.5,
+        "stance": 1.0
+    },
+    "33005": {
+        "group": 33005,
+        "attack": 1.3,
+        "defense": 1.0,
+        "health": 3.0,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "34001": {
+        "group": 34001,
+        "attack": 0.75,
+        "defense": 1.0,
+        "health": 1.0,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "35000": {
+        "group": 35000,
+        "attack": 1.01,
+        "defense": 1.0,
+        "health": 3.12,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "35001": {
+        "group": 35001,
+        "attack": 0.88,
+        "defense": 1.0,
+        "health": 2.133,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "35002": {
+        "group": 35002,
+        "attack": 1.01,
+        "defense": 1.0,
+        "health": 2.736,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "35003": {
+        "group": 35003,
+        "attack": 1.03,
+        "defense": 1.0,
+        "health": 2.736,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "35004": {
+        "group": 35004,
+        "attack": 1.01,
+        "defense": 1.0,
+        "health": 2.808,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "35005": {
+        "group": 35005,
+        "attack": 1.0,
+        "defense": 1.0,
+        "health": 2.835,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "35006": {
+        "group": 35006,
+        "attack": 0.99,
+        "defense": 1.0,
+        "health": 2.727,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "36001": {
+        "group": 36001,
+        "attack": 1.0125,
+        "defense": 1.0,
+        "health": 3.19,
+        "speed": 1.2,
+        "stance": 1.0
+    },
+    "36002": {
+        "group": 36002,
+        "attack": 0.9375,
+        "defense": 1.0,
+        "health": 3.12,
+        "speed": 1.2,
+        "stance": 1.0
+    },
+    "36003": {
+        "group": 36003,
+        "attack": 1.52,
+        "defense": 1.0,
+        "health": 2.0625,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "36004": {
+        "group": 36004,
+        "attack": 1.824,
+        "defense": 1.0,
+        "health": 2.75,
+        "speed": 1.1,
+        "stance": 1.0
+    },
+    "36005": {
+        "group": 36005,
+        "attack": 1.824,
+        "defense": 1.0,
+        "health": 2.0625,
+        "speed": 1.1,
+        "stance": 1.0
+    },
+    "36006": {
+        "group": 36006,
+        "attack": 1.52,
+        "defense": 1.0,
+        "health": 2.75,
+        "speed": 1.1,
+        "stance": 1.0
+    },
+    "39001": {
+        "group": 39001,
+        "attack": 0.3,
+        "defense": 1.0,
+        "health": 0.8,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "39002": {
+        "group": 39002,
+        "attack": 0.4,
+        "defense": 1.0,
+        "health": 1.0,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "39003": {
+        "group": 39003,
+        "attack": 0.5,
+        "defense": 1.0,
+        "health": 1.2,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "39004": {
+        "group": 39004,
+        "attack": 0.6,
+        "defense": 1.0,
+        "health": 1.4,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "39005": {
+        "group": 39005,
+        "attack": 1.2,
+        "defense": 1.0,
+        "health": 1.91,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "39006": {
+        "group": 39006,
+        "attack": 1.29,
+        "defense": 1.0,
+        "health": 2.61,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "39007": {
+        "group": 39007,
+        "attack": 1.38,
+        "defense": 1.0,
+        "health": 2.81,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "39008": {
+        "group": 39008,
+        "attack": 1.48,
+        "defense": 1.0,
+        "health": 3.01,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "39009": {
+        "group": 39009,
+        "attack": 0.6,
+        "defense": 1.0,
+        "health": 1.3,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "39010": {
+        "group": 39010,
+        "attack": 1.2,
+        "defense": 1.0,
+        "health": 1.68,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "39011": {
+        "group": 39011,
+        "attack": 1.41,
+        "defense": 1.0,
+        "health": 2.09,
+        "speed": 1.05,
+        "stance": 1.0
+    },
+    "39012": {
+        "group": 39012,
+        "attack": 0.6,
+        "defense": 1.0,
+        "health": 1.3,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "40000": {
+        "group": 40000,
+        "attack": 0.9,
+        "defense": 1.0,
+        "health": 1.16,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "40001": {
+        "group": 40001,
+        "attack": 0.91,
+        "defense": 1.0,
+        "health": 1.21,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "40002": {
+        "group": 40002,
+        "attack": 0.96,
+        "defense": 1.0,
+        "health": 1.33,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "40003": {
+        "group": 40003,
+        "attack": 0.96,
+        "defense": 1.0,
+        "health": 1.4,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "40004": {
+        "group": 40004,
+        "attack": 1.01,
+        "defense": 1.0,
+        "health": 1.57,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "40005": {
+        "group": 40005,
+        "attack": 1.02,
+        "defense": 1.0,
+        "health": 1.66,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "40006": {
+        "group": 40006,
+        "attack": 1.08,
+        "defense": 1.0,
+        "health": 1.86,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "40007": {
+        "group": 40007,
+        "attack": 0.94,
+        "defense": 1.0,
+        "health": 1.98,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "40008": {
+        "group": 40008,
+        "attack": 1.16,
+        "defense": 1.0,
+        "health": 2.19,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "40009": {
+        "group": 40009,
+        "attack": 0.95,
+        "defense": 1.0,
+        "health": 2.07,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "40100": {
+        "group": 40100,
+        "attack": 0.85,
+        "defense": 1.0,
+        "health": 0.91,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "40101": {
+        "group": 40101,
+        "attack": 0.94,
+        "defense": 1.0,
+        "health": 1.2,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "40102": {
+        "group": 40102,
+        "attack": 1.0,
+        "defense": 1.0,
+        "health": 1.48,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "40103": {
+        "group": 40103,
+        "attack": 1.16,
+        "defense": 1.0,
+        "health": 2.24,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "40104": {
+        "group": 40104,
+        "attack": 1.4,
+        "defense": 1.0,
+        "health": 3.27,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "40105": {
+        "group": 40105,
+        "attack": 1.47,
+        "defense": 1.0,
+        "health": 3.8,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "40106": {
+        "group": 40106,
+        "attack": 1.56,
+        "defense": 1.0,
+        "health": 4.11,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "40107": {
+        "group": 40107,
+        "attack": 1.58,
+        "defense": 1.0,
+        "health": 4.54,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "40108": {
+        "group": 40108,
+        "attack": 1.87,
+        "defense": 1.0,
+        "health": 4.36,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "40109": {
+        "group": 40109,
+        "attack": 1.58,
+        "defense": 1.0,
+        "health": 4.19,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "40200": {
+        "group": 40200,
+        "attack": 1.06,
+        "defense": 1.0,
+        "health": 1.19,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "40201": {
+        "group": 40201,
+        "attack": 1.1,
+        "defense": 1.0,
+        "health": 1.41,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "40202": {
+        "group": 40202,
+        "attack": 1.18,
+        "defense": 1.0,
+        "health": 1.76,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "40203": {
+        "group": 40203,
+        "attack": 1.37,
+        "defense": 1.0,
+        "health": 2.61,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "40204": {
+        "group": 40204,
+        "attack": 1.65,
+        "defense": 1.0,
+        "health": 3.81,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "40205": {
+        "group": 40205,
+        "attack": 1.75,
+        "defense": 1.0,
+        "health": 4.48,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "40206": {
+        "group": 40206,
+        "attack": 1.86,
+        "defense": 1.0,
+        "health": 4.87,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "40207": {
+        "group": 40207,
+        "attack": 1.9,
+        "defense": 1.0,
+        "health": 5.54,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "40208": {
+        "group": 40208,
+        "attack": 2.25,
+        "defense": 1.0,
+        "health": 5.45,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "40209": {
+        "group": 40209,
+        "attack": 1.91,
+        "defense": 1.0,
+        "health": 5.31,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "40300": {
+        "group": 40300,
+        "attack": 1.2,
+        "defense": 1.0,
+        "health": 1.49,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "40301": {
+        "group": 40301,
+        "attack": 1.32,
+        "defense": 1.0,
+        "health": 1.82,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "40302": {
+        "group": 40302,
+        "attack": 1.4,
+        "defense": 1.0,
+        "health": 2.19,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "40303": {
+        "group": 40303,
+        "attack": 1.6,
+        "defense": 1.0,
+        "health": 3.06,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "40304": {
+        "group": 40304,
+        "attack": 1.91,
+        "defense": 1.0,
+        "health": 4.27,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "40305": {
+        "group": 40305,
+        "attack": 2.02,
+        "defense": 1.0,
+        "health": 4.97,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "40306": {
+        "group": 40306,
+        "attack": 2.13,
+        "defense": 1.0,
+        "health": 5.41,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "40307": {
+        "group": 40307,
+        "attack": 2.17,
+        "defense": 1.0,
+        "health": 6.13,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "40308": {
+        "group": 40308,
+        "attack": 2.55,
+        "defense": 1.0,
+        "health": 6.09,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "40309": {
+        "group": 40309,
+        "attack": 2.32,
+        "defense": 1.0,
+        "health": 6.35,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "40400": {
+        "group": 40400,
+        "attack": 1.31,
+        "defense": 1.0,
+        "health": 1.65,
+        "speed": 1.08,
+        "stance": 1.0
+    },
+    "40401": {
+        "group": 40401,
+        "attack": 1.37,
+        "defense": 1.0,
+        "health": 2.02,
+        "speed": 1.08,
+        "stance": 1.0
+    },
+    "40402": {
+        "group": 40402,
+        "attack": 1.49,
+        "defense": 1.0,
+        "health": 2.35,
+        "speed": 1.08,
+        "stance": 1.0
+    },
+    "40403": {
+        "group": 40403,
+        "attack": 1.84,
+        "defense": 1.0,
+        "health": 3.42,
+        "speed": 1.08,
+        "stance": 1.0
+    },
+    "40404": {
+        "group": 40404,
+        "attack": 2.16,
+        "defense": 1.0,
+        "health": 4.85,
+        "speed": 1.08,
+        "stance": 1.0
+    },
+    "40405": {
+        "group": 40405,
+        "attack": 2.36,
+        "defense": 1.0,
+        "health": 5.79,
+        "speed": 1.08,
+        "stance": 1.0
+    },
+    "40406": {
+        "group": 40406,
+        "attack": 2.49,
+        "defense": 1.0,
+        "health": 6.25,
+        "speed": 1.08,
+        "stance": 1.0
+    },
+    "40407": {
+        "group": 40407,
+        "attack": 2.53,
+        "defense": 1.0,
+        "health": 7.01,
+        "speed": 1.08,
+        "stance": 1.0
+    },
+    "40408": {
+        "group": 40408,
+        "attack": 2.96,
+        "defense": 1.0,
+        "health": 6.92,
+        "speed": 1.08,
+        "stance": 1.0
+    },
+    "40409": {
+        "group": 40409,
+        "attack": 2.7,
+        "defense": 1.0,
+        "health": 7.16,
+        "speed": 1.08,
+        "stance": 1.0
+    },
+    "40500": {
+        "group": 40500,
+        "attack": 1.53,
+        "defense": 1.0,
+        "health": 1.98,
+        "speed": 1.12,
+        "stance": 1.0
+    },
+    "40501": {
+        "group": 40501,
+        "attack": 1.68,
+        "defense": 1.0,
+        "health": 2.46,
+        "speed": 1.12,
+        "stance": 1.0
+    },
+    "40502": {
+        "group": 40502,
+        "attack": 1.74,
+        "defense": 1.0,
+        "health": 2.76,
+        "speed": 1.12,
+        "stance": 1.0
+    },
+    "40503": {
+        "group": 40503,
+        "attack": 2.26,
+        "defense": 1.0,
+        "health": 3.84,
+        "speed": 1.12,
+        "stance": 1.0
+    },
+    "40504": {
+        "group": 40504,
+        "attack": 2.59,
+        "defense": 1.0,
+        "health": 5.3,
+        "speed": 1.12,
+        "stance": 1.0
+    },
+    "40505": {
+        "group": 40505,
+        "attack": 2.89,
+        "defense": 1.0,
+        "health": 6.59,
+        "speed": 1.12,
+        "stance": 1.0
+    },
+    "40506": {
+        "group": 40506,
+        "attack": 3.04,
+        "defense": 1.0,
+        "health": 7.07,
+        "speed": 1.12,
+        "stance": 1.0
+    },
+    "40507": {
+        "group": 40507,
+        "attack": 2.81,
+        "defense": 1.0,
+        "health": 7.86,
+        "speed": 1.27,
+        "stance": 1.0
+    },
+    "40508": {
+        "group": 40508,
+        "attack": 3.55,
+        "defense": 1.0,
+        "health": 7.78,
+        "speed": 1.12,
+        "stance": 1.0
+    },
+    "40509": {
+        "group": 40509,
+        "attack": 2.99,
+        "defense": 1.0,
+        "health": 8.05,
+        "speed": 1.27,
+        "stance": 1.0
+    },
+    "40900": {
+        "group": 40900,
+        "attack": 1.0,
+        "defense": 1.0,
+        "health": 1.0,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "40901": {
+        "group": 40901,
+        "attack": 1.1,
+        "defense": 1.0,
+        "health": 1.3,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "40902": {
+        "group": 40902,
+        "attack": 1.2,
+        "defense": 1.0,
+        "health": 1.6,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "40903": {
+        "group": 40903,
+        "attack": 1.3,
+        "defense": 1.0,
+        "health": 1.9,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "41100": {
+        "group": 41100,
+        "attack": 0.78,
+        "defense": 1.0,
+        "health": 0.79,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "41101": {
+        "group": 41101,
+        "attack": 0.87,
+        "defense": 1.0,
+        "health": 1.15,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "41102": {
+        "group": 41102,
+        "attack": 0.96,
+        "defense": 1.0,
+        "health": 1.5,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "41103": {
+        "group": 41103,
+        "attack": 1.18,
+        "defense": 1.0,
+        "health": 2.32,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "41104": {
+        "group": 41104,
+        "attack": 1.42,
+        "defense": 1.0,
+        "health": 3.5,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "41105": {
+        "group": 41105,
+        "attack": 1.56,
+        "defense": 1.0,
+        "health": 3.93,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "41106": {
+        "group": 41106,
+        "attack": 1.71,
+        "defense": 1.0,
+        "health": 4.11,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "41107": {
+        "group": 41107,
+        "attack": 1.62,
+        "defense": 1.0,
+        "health": 3.95,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "41108": {
+        "group": 41108,
+        "attack": 2.12,
+        "defense": 1.0,
+        "health": 4.01,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "41109": {
+        "group": 41109,
+        "attack": 1.54,
+        "defense": 1.0,
+        "health": 3.72,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "41200": {
+        "group": 41200,
+        "attack": 0.86,
+        "defense": 1.0,
+        "health": 1.03,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "41201": {
+        "group": 41201,
+        "attack": 0.97,
+        "defense": 1.0,
+        "health": 1.44,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "41202": {
+        "group": 41202,
+        "attack": 1.09,
+        "defense": 1.0,
+        "health": 1.87,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "41203": {
+        "group": 41203,
+        "attack": 1.35,
+        "defense": 1.0,
+        "health": 2.83,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "41204": {
+        "group": 41204,
+        "attack": 1.64,
+        "defense": 1.0,
+        "health": 4.25,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "41205": {
+        "group": 41205,
+        "attack": 1.82,
+        "defense": 1.0,
+        "health": 4.8,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "41206": {
+        "group": 41206,
+        "attack": 2.0,
+        "defense": 1.0,
+        "health": 5.05,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "41207": {
+        "group": 41207,
+        "attack": 1.9,
+        "defense": 1.0,
+        "health": 5.02,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "41208": {
+        "group": 41208,
+        "attack": 2.51,
+        "defense": 1.0,
+        "health": 5.21,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "41209": {
+        "group": 41209,
+        "attack": 1.82,
+        "defense": 1.0,
+        "health": 4.92,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "41300": {
+        "group": 41300,
+        "attack": 1.06,
+        "defense": 1.0,
+        "health": 1.25,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "41301": {
+        "group": 41301,
+        "attack": 1.17,
+        "defense": 1.0,
+        "health": 1.69,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "41302": {
+        "group": 41302,
+        "attack": 1.3,
+        "defense": 1.0,
+        "health": 2.13,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "41303": {
+        "group": 41303,
+        "attack": 1.55,
+        "defense": 1.0,
+        "health": 3.17,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "41304": {
+        "group": 41304,
+        "attack": 1.85,
+        "defense": 1.0,
+        "health": 4.71,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "41305": {
+        "group": 41305,
+        "attack": 2.02,
+        "defense": 1.0,
+        "health": 5.35,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "41306": {
+        "group": 41306,
+        "attack": 2.21,
+        "defense": 1.0,
+        "health": 5.66,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "41307": {
+        "group": 41307,
+        "attack": 2.23,
+        "defense": 1.0,
+        "health": 5.99,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "41308": {
+        "group": 41308,
+        "attack": 2.73,
+        "defense": 1.0,
+        "health": 5.9,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "41309": {
+        "group": 41309,
+        "attack": 2.04,
+        "defense": 1.0,
+        "health": 5.98,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "41400": {
+        "group": 41400,
+        "attack": 1.26,
+        "defense": 1.0,
+        "health": 1.62,
+        "speed": 1.05,
+        "stance": 1.0
+    },
+    "41401": {
+        "group": 41401,
+        "attack": 1.37,
+        "defense": 1.0,
+        "health": 1.97,
+        "speed": 1.05,
+        "stance": 1.0
+    },
+    "41402": {
+        "group": 41402,
+        "attack": 1.49,
+        "defense": 1.0,
+        "health": 2.37,
+        "speed": 1.05,
+        "stance": 1.0
+    },
+    "41403": {
+        "group": 41403,
+        "attack": 1.76,
+        "defense": 1.0,
+        "health": 3.59,
+        "speed": 1.05,
+        "stance": 1.0
+    },
+    "41404": {
+        "group": 41404,
+        "attack": 2.07,
+        "defense": 1.0,
+        "health": 5.16,
+        "speed": 1.05,
+        "stance": 1.0
+    },
+    "41405": {
+        "group": 41405,
+        "attack": 2.34,
+        "defense": 1.0,
+        "health": 6.13,
+        "speed": 1.05,
+        "stance": 1.0
+    },
+    "41406": {
+        "group": 41406,
+        "attack": 2.56,
+        "defense": 1.0,
+        "health": 6.45,
+        "speed": 1.05,
+        "stance": 1.0
+    },
+    "41407": {
+        "group": 41407,
+        "attack": 2.58,
+        "defense": 1.0,
+        "health": 6.76,
+        "speed": 1.05,
+        "stance": 1.0
+    },
+    "41408": {
+        "group": 41408,
+        "attack": 3.13,
+        "defense": 1.0,
+        "health": 6.62,
+        "speed": 1.05,
+        "stance": 1.0
+    },
+    "41409": {
+        "group": 41409,
+        "attack": 2.38,
+        "defense": 1.0,
+        "health": 6.66,
+        "speed": 1.05,
+        "stance": 1.0
+    },
+    "41500": {
+        "group": 41500,
+        "attack": 1.5,
+        "defense": 1.0,
+        "health": 2.16,
+        "speed": 1.1,
+        "stance": 1.0
+    },
+    "41501": {
+        "group": 41501,
+        "attack": 1.61,
+        "defense": 1.0,
+        "health": 2.43,
+        "speed": 1.1,
+        "stance": 1.0
+    },
+    "41502": {
+        "group": 41502,
+        "attack": 1.78,
+        "defense": 1.0,
+        "health": 2.87,
+        "speed": 1.1,
+        "stance": 1.0
+    },
+    "41503": {
+        "group": 41503,
+        "attack": 2.14,
+        "defense": 1.0,
+        "health": 3.81,
+        "speed": 1.1,
+        "stance": 1.0
+    },
+    "41504": {
+        "group": 41504,
+        "attack": 2.56,
+        "defense": 1.0,
+        "health": 5.47,
+        "speed": 1.1,
+        "stance": 1.0
+    },
+    "41505": {
+        "group": 41505,
+        "attack": 2.88,
+        "defense": 1.0,
+        "health": 6.77,
+        "speed": 1.1,
+        "stance": 1.0
+    },
+    "41506": {
+        "group": 41506,
+        "attack": 3.12,
+        "defense": 1.0,
+        "health": 7.12,
+        "speed": 1.1,
+        "stance": 1.0
+    },
+    "41507": {
+        "group": 41507,
+        "attack": 2.76,
+        "defense": 1.0,
+        "health": 7.49,
+        "speed": 1.15,
+        "stance": 1.0
+    },
+    "41508": {
+        "group": 41508,
+        "attack": 3.63,
+        "defense": 1.0,
+        "health": 7.34,
+        "speed": 1.15,
+        "stance": 1.0
+    },
+    "41509": {
+        "group": 41509,
+        "attack": 2.63,
+        "defense": 1.0,
+        "health": 7.4,
+        "speed": 1.27,
+        "stance": 1.0
+    },
+    "41900": {
+        "group": 41900,
+        "attack": 1.0,
+        "defense": 1.0,
+        "health": 1.0,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "41901": {
+        "group": 41901,
+        "attack": 1.1,
+        "defense": 1.0,
+        "health": 1.3,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "41990": {
+        "group": 41990,
+        "attack": 0.9,
+        "defense": 1.0,
+        "health": 1.0,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "40998": {
+        "group": 40998,
+        "attack": 1.0,
+        "defense": 1.0,
+        "health": 9.0,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "40999": {
+        "group": 40999,
+        "attack": 2.04,
+        "defense": 1.0,
+        "health": 5.5,
+        "speed": 1.0,
+        "stance": 1.0
+    },
+    "41001": {
+        "group": 41001,
+        "attack": 0.8,
+        "defense": 1.0,
+        "health": 0.8,
+        "speed": 1.0,
+        "stance": 1.0
+    }
+}
