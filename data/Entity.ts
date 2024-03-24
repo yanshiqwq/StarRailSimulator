@@ -1,5 +1,5 @@
 import { BuffOption, Buff, BuffType, BuffStand } from "./Buff";
-import { SRElement, Selector, TargetType, battleEventEmitter } from "./Data";
+import { SRElement, SREvent, Selector, TargetType, battleEventEmitter } from "./Data";
 import { BattleInstance } from "./battle/Battle";
 
 export interface BaseStat {
@@ -21,6 +21,12 @@ export class Skill {
 }
 
 export class Target {
+	constructor(single: Entity, adjacent: Array<Entity>, aoe: Array<Entity>, bounce: Array<Entity>) {
+		this.single = single;
+		this.adjacent = adjacent;
+		this.aoe = aoe;
+		this.bounce = bounce;
+	}
 	getSingleTarget() { return this.single }
 	getAdjacentTarget() { return this.adjacent }
 	getAoETarget() { return this.aoe }
@@ -64,28 +70,28 @@ export abstract class Entity{
 	max_health: number;
 	getMaxHealth(): number { return this.max_health }
 	setMaxHealth(value: number): void {
-		battleEventEmitter.emit("onEntityMaxHealthChanged", this, value);
+		battleEventEmitter.emit(SREvent.ENTITY_MAX_HEALTH_CHANGED, this, value);
 		this.max_health = value
 	}
 
 	stat_health: number;
 	getHealth(): number { return this.stat_health }
 	recoverHealth(health: number): void {
-		battleEventEmitter.emit('onEntityHealthRecoverd', this, health);
-		battleEventEmitter.emit('onEntityHealthChanged', this, health);
+		battleEventEmitter.emit(SREvent.ENTITY_HEALTH_RECOVERED, this, health);
+		battleEventEmitter.emit(SREvent.ENTITY_HEALTH_CHANGED, this, health);
 		this.stat_health = this.stat_health + health
 		if ( health > this.getMaxHealth() - this.getHealth()) {
 			this.stat_health = this.getMaxHealth();
-			battleEventEmitter.emit('onEntityOverHealed', this, health);
+			battleEventEmitter.emit(SREvent.ENTITY_OVERHEALED, this, health);
 		}
 	}
 	damageHealth(damage: number): void {
-		battleEventEmitter.emit('onEntityHealthDamaged', this, damage)
-		battleEventEmitter.emit('onEntityHealthChanged', this, -damage);
+		battleEventEmitter.emit(SREvent.ENTITY_HEALTH_DAMAGED, this, damage)
+		battleEventEmitter.emit(SREvent.ENTITY_HEALTH_CHANGED, this, -damage);
 		this.stat_health = this.stat_health - damage
 		if (this.stat_health <= 0 ) {
 			this.stat_health = 0;
-			battleEventEmitter.emit('onEntityZeroHealth', this, damage);
+			battleEventEmitter.emit(SREvent.ENTITY_ZERO_HEALTH, this, damage);
 		}
 	}
 	stat_attack: number;
@@ -137,16 +143,16 @@ export abstract class Entity{
 		if (Math.random() <= final_chance) {
 			var buff_obj = new Buff(buff, time, type, applier, this);
 			this.buff_list.push(buff_obj);
-			battleEventEmitter.emit("onBuffApplied", applier, this, buff_obj);
+			battleEventEmitter.emit(SREvent.BUFF_APPLIED, applier, this, buff_obj);
 		} else {
-			battleEventEmitter.emit("onBuffApplingResistanced", applier, this, buff);
+			battleEventEmitter.emit(SREvent.BUFF_EFFECT_RESISTANCED, applier, this, buff);
 		}
 	}
 
 	removeBuff(uuid: string): boolean {
 		this.buff_list.forEach(buff => {
 			if (buff.getUUID() == uuid) {
-				battleEventEmitter.emit("onBuffRemoved", this, buff);
+				battleEventEmitter.emit(SREvent.BUFF_REMOVED, this, buff);
 				this.buff_list.splice(this.buff_list.indexOf(buff), 1);
 				return true;
 			}

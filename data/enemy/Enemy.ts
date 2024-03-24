@@ -1,8 +1,10 @@
 import { SRElement, battleEventEmitter } from "../Data";
-import { Entity } from "../Entity";
+import { Entity, Skill } from "../Entity";
 import { Character } from "../character/Character";
 
 export abstract class Enemy extends Entity {
+
+	next_move: [Skill];
 
 	damage_boost: number;
 	

@@ -174,7 +174,7 @@ class SilverWolf extends Character{
 					battleEventEmitter.emit(SREvent.CHARACTER_SKILL_TRIGGERED, this);
 					var elements = Array<SRElement>();
 					var target = targets.getSingleTarget() as Enemy;
-					battle_instance.getAllyList().forEach((ally: Character) => {
+					battle_instance.getCharacterList().forEach((ally: Character) => {
 						var element = ally.getElement();
 						if(elements.indexOf(element) != -1 && target.getWeakness().indexOf(element) == -1){
 							elements.push(element);

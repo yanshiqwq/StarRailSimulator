@@ -1,4 +1,4 @@
-import { battleEventEmitter } from "./Data";
+import { SREvent, battleEventEmitter } from "./Data";
 import { Entity } from "./Entity";
 
 export enum BuffStand {
@@ -52,14 +52,14 @@ export class BuffOption {
 
 export class Buff {
 	static {
-		battleEventEmitter.on("onBuffDurationChanged", (buff: Buff, _amount: number) => {
+		battleEventEmitter.on(SREvent.BUFF_DURATION_CHANGED, (buff: Buff, _amount: number) => {
 			if (buff.getDuration() == -1) return;
 			if (buff.getDuration() <= 0) {
-				battleEventEmitter.emit("onBuffExpired", buff)
+				battleEventEmitter.emit(SREvent.BUFF_EXPIRED, buff)
 				buff.remove();
 			}
 		});
-		battleEventEmitter.emit("onBuffApplied", (buff: Buff) => {
+		battleEventEmitter.emit(SREvent.BUFF_APPLIED, (buff: Buff) => {
 			var owner = buff.getOwner();
 			buff.option.getEffectList().forEach(effect => {
 				switch (effect.effect) {
@@ -69,7 +69,7 @@ export class Buff {
 				}
 			})
 		});
-		battleEventEmitter.emit("onEntityRoundStarted", (entity: Entity) => {
+		battleEventEmitter.emit(SREvent.ENTITY_ROUND_STARTED, (entity: Entity) => {
 			entity.getBuffs().forEach(buff => {
 				if (buff.getDuration() == -1) return;
 				switch (buff.getType()) {
@@ -96,13 +96,13 @@ export class Buff {
 	getDuration(): number { return this.duration }
 	addDuration(amount: number) {
 		this.duration += amount;
-		battleEventEmitter.emit("onBuffDurationAdded", this, amount)
-		battleEventEmitter.emit("onBuffDurationChanged", this, amount)
+		battleEventEmitter.emit(SREvent.BUFF_DURATION_ADDED, this, amount)
+		battleEventEmitter.emit(SREvent.BUFF_DURATION_CHANGED, this, amount)
 	}
 	removeDuration(amount: number) {
 		this.duration -= amount;
-		battleEventEmitter.emit("onBuffDurationRemoved", this, amount)
-		battleEventEmitter.emit("onBuffDurationChanged", this, -amount)
+		battleEventEmitter.emit(SREvent.BUFF_DURATION_REMOVED, this, amount)
+		battleEventEmitter.emit(SREvent.BUFF_DURATION_CHANGED, this, -amount)
 	}
 	layer: number;
 	getLayer(): number { return this.layer }
@@ -132,20 +132,20 @@ export class Buff {
 		this.getBuffOption = () => { return this.option };
 		this.setOption = this.option.setOption;
 		this.getIfDispellable = this.option.getIfDispellable;
-		battleEventEmitter.emit("onBuffApplied", this);
+		battleEventEmitter.emit(SREvent.BUFF_APPLIED, this);
 	}
 
 	dispell(): void {
 		if (!this.getIfDispellable()) {
-			battleEventEmitter.emit('onBuffDispellingFailed', this);
+			battleEventEmitter.emit(SREvent.BUFF_DISPELLING_FAILED, this);
 			return;
 		}
-		battleEventEmitter.emit("onBuffDispelled", this);
+		battleEventEmitter.emit(SREvent.BUFF_DISPELLED, this);
 		this.remove();
 	}
 
 	remove(): void {
-		battleEventEmitter.emit("onBuffRemoved", this)
+		battleEventEmitter.emit(SREvent.BUFF_REMOVED, this)
 		this.getOwner().removeBuff(this.getUUID())
 	}
 }
