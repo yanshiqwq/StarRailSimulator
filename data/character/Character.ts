@@ -212,8 +212,7 @@ export abstract class Character extends Entity {
 	attack(target: Enemy, magnification: number, stance: number, ignore_weakness?: boolean): void{
 		battleEventEmitter.emit(SREvent.CHARACTER_BEFORE_ATTACK, this);
 
-		var attack_multiplier = this.getAttack();
-		var magnification_multiplier = magnification;
+		var magnification_multiplier = this.getAttack() * magnification;
 		var defense_multiplier = (200 + 10 * this.getLevel()) / (200 + 10 * this.getLevel() + target.getDefense());
 		var damage_boost_multiplier = this.getDamageBoostValue(this.getElement());
 		var resistance_multiplier = 1 - target.getResistance(this.getElement()) + this.getResistancePenetration(this.getElement());
@@ -221,8 +220,8 @@ export abstract class Character extends Entity {
 		var if_crit = Math.random() <= this.getCritRate();
 		var crit_multiplier = if_crit ? 1 + this.getCritDamage() : 1;
 		var expect_crit_multiplier = this.getCritRate() * (1 + this.getCritDamage());
-		var final_damage = attack_multiplier * magnification_multiplier * defense_multiplier * damage_boost_multiplier * resistance_multiplier * damage_exemption_multiplier * crit_multiplier;
-		var expect_damage = attack_multiplier * magnification_multiplier * defense_multiplier * damage_boost_multiplier * resistance_multiplier * damage_exemption_multiplier * expect_crit_multiplier;
+		var final_damage = magnification_multiplier * defense_multiplier * damage_boost_multiplier * resistance_multiplier * damage_exemption_multiplier * crit_multiplier;
+		var expect_damage = magnification_multiplier * defense_multiplier * damage_boost_multiplier * resistance_multiplier * damage_exemption_multiplier * expect_crit_multiplier;
 
 		target.reduceStance(this.getElement(), stance, ignore_weakness)
 		target.receiveDamage(final_damage, this);

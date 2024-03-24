@@ -7,6 +7,7 @@ export abstract class Enemy extends Entity {
 	next_move: [Skill];
 
 	damage_boost: number;
+	getDamageBoost(): number { return this.damage_boost }
 	
 	weakness: Array<SRElement>;
 	getWeakness(): Array<SRElement> { return this.weakness; }
@@ -15,10 +16,12 @@ export abstract class Enemy extends Entity {
 	stance: number
 	getStance(): number { return this.stance }
 	
-	attack(target: Character, damage: number, element: SRElement): void{
+	attack(target: Character, magnification: number, element: SRElement): void{
+		var magnification_multiplier = this.getAttack() * magnification;
+		var damage_boost_multiplier = this.getDamageBoost();
 		var defense_multiplier = (200 + 10 * this.getLevel()) / (200 + 10 * this.getLevel() + target.getDefense());
 		var resistance_multiplier = 1 - target.getResistance(element);
-		var final_damage = damage * this.damage_boost * defense_multiplier * resistance_multiplier;
+		var final_damage = magnification_multiplier * damage_boost_multiplier * defense_multiplier * resistance_multiplier;
 		target.receiveDamage(final_damage, this);
 	}
 

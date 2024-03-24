@@ -38,7 +38,12 @@ export class Round {
 	start() {
 		battleEventEmitter.emit(SREvent.ENTITY_ROUND_STARTED, this);
 		battleEventEmitter.emit(SREvent.ENTITY_BEFORE_DOT_SETTLE, this);
-		this.entity.getBuffs()
+		this.entity.getDoTBuffs().forEach(dot => {
+			dot.getApplier().attack(this.entity, dot.getDoTMultiplier())
+		})
+		requireIfInsertUltimate(); //TODO
+	}
+	action() {
 		if (this.entity instanceof Character) {
 			requireSelectorList(this.instance) // TODO
 				.then((selector_list: Map<Selector, Position>) => {
@@ -47,9 +52,11 @@ export class Round {
 		} else {
 			
 		}
+		battleEventEmitter.emit(SREvent.ENTITY_ROUND_ENDED, this);
+
 	}
 	end() {
-		battleEventEmitter.emit(SREvent.ENTITY_ROUND_ENDED, this);
+		
 	}
 }
 
@@ -82,19 +89,6 @@ export class BattleInstance {
 
 	current_round: Round;
 
-	nextRound() {
-		this.current_round.end();
-	}
-	
-	updateActionSequence(key: Entity, action_value: number): void {
-		var map = this.getActionValueMap();
-		const original = map.get(key)!;
-		map.delete(key);
-		map.set(key, {action_value: action_value, distance: original.distance});
-		const sortedEntries = Array.from(map.entries()).sort((a, b) => a[1].action_value - b[1].action_value);
-		this.action_map = new Map(sortedEntries);
-	}
-
 	getEnemyList() {
 		var enemy_list = new Array<Enemy>;
 		this.action_map.forEach((_value, key) => {key instanceof Enemy ? enemy_list.push(key) : null})
@@ -126,7 +120,13 @@ export class BattleInstance {
 	}
 
 	assignNewActionValue(entity: Entity, action_value: number) {
-		this.action_map.set(entity, {distance: entity.getSpeed() * action_value, action_value: action_value});
+		var map = this.getActionValueMap();
+		map.set(entity, {distance: entity.getSpeed() * action_value, action_value: action_value});
+		const original = map.get(entity)!;
+		map.delete(entity);
+		map.set(entity, {action_value: action_value, distance: original.distance});
+		const sortedEntries = Array.from(map.entries()).sort((a, b) => a[1].action_value - b[1].action_value);
+		this.action_map = new Map(sortedEntries);
 	}
 
 	getActionValueMap() { return this.action_map }

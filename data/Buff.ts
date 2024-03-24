@@ -18,6 +18,14 @@ export enum EffectType {
 	FREEZE, ENTANGLEMENT, IMPRISONMENT, BLEED, SHOCK, BURN, WIND_SHEAR 
 }
 
+export enum DoTDebuffType {
+	BLEED, SHOCK, BURN, WIND_SHEAR
+}
+
+export enum additionalDamageDebuffType {
+	FREEZE, ENTANGLEMENT
+}
+
 interface IBuffOption {
 	stand: BuffStand;
 	name: string;
@@ -48,7 +56,14 @@ export class BuffOption {
 	getBuffStand(): BuffStand { return this.option.stand }
 }
 
-
+export class DoTBuffOption extends BuffOption {
+	dot_type: DoTDebuffType
+	constructor(callback?: (buff: Buff) => void){
+		super(callback);
+		this.option.stand = BuffStand.NEGATIVE;
+	}
+	getDoTType() { return this.dot_type }
+}
 
 export class Buff {
 	static {
@@ -119,6 +134,7 @@ export class Buff {
 	getBuffOption: () => BuffOption
 	setOption: (option: IBuffOption) => void;
 	getIfDispellable: () => boolean;
+	
 	constructor(option: BuffOption, duration: number, type: BuffType, applier: Entity, owner: Entity) {
 		option.getBuff = () => { return this };
 		this.pre_duration_decrease = false;
@@ -148,4 +164,13 @@ export class Buff {
 		battleEventEmitter.emit(SREvent.BUFF_REMOVED, this)
 		this.getOwner().removeBuff(this.getUUID())
 	}
+}
+
+export class DoTBuff extends Buff {
+	dot_multiplier: any;
+	constructor(option: BuffOption, duration: number, type: BuffType, applier: Entity, owner: Entity, dot_multiplier: number) {
+		super(option, duration, type, applier, owner);
+		this.dot_multiplier = dot_multiplier;
+	}
+	getDoTMultiplier() { return this.dot_multiplier };
 }

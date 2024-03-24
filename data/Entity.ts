@@ -1,4 +1,4 @@
-import { BuffOption, Buff, BuffType, BuffStand } from "./Buff";
+import { BuffOption, Buff, BuffType, BuffStand, DoTBuff } from "./Buff";
 import { SRElement, SREvent, Selector, TargetType, battleEventEmitter } from "./Data";
 import { BattleInstance } from "./battle/Battle";
 
@@ -36,13 +36,6 @@ export class Target {
 	adjacent: Array<Entity>;
 	aoe: Array<Entity>;
 	bounce: Array<Entity>;
-}
-
-export enum ListenerType {
-	onRoundStart, onAttacked, // overall
-	onCharacterRoundStart, onEnemyDefeated, onEnemyBreaked, onEnemyEntered, onKnockedDown, // character
-	onBreaked, onEnemyRoundStart, // enemy
-	onBuffApplied, onBuffDispelled, onBuffRemoved, // buff
 }
 
 export enum ResistableDebuffType {
@@ -168,7 +161,7 @@ export abstract class Entity{
 		return this.buff_list.filter(buff => buff.getUUID() == uuid)[0];
 	}
 
-	getBuffs(): Buff[] {
+	getBuffs(): Array<Buff> {
 		return this.buff_list;
 	}
 
@@ -176,9 +169,14 @@ export abstract class Entity{
 		return this.buff_list.filter(buff => buff.getBuffStand() == stand);
 	}
 
+	getDoTBuffs(): Array<DoTBuff> {
+		return this.getBuffs().filter(buff => buff instanceof DoTBuff) as Array<DoTBuff>;
+	}
+
 	hasBuff(uuid: string): boolean {
 		return this.buff_list.hasOwnProperty(uuid);
 	}
 
 	abstract receiveDamage(final_damage: number, attackr: Entity): void;
+	abstract attack(target: Entity, ...args: any[]): void;
 }
